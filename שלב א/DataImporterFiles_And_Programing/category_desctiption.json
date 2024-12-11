@@ -1,0 +1,877 @@
+[
+  {
+    "category": "Psychology",
+    "subcategory": "Social Psychology",
+    "description": "Social Psychology examines how individuals' thoughts, behaviors, and emotions are influenced by the presence of others. It includes topics such as social influence, group behavior, and interpersonal relationships."
+  },
+  {
+    "category": "History",
+    "subcategory": "Middle East History",
+    "description": "Middle East History studies the political, social, and cultural developments in the Middle Eastern region from ancient times to the present, including significant events, movements, and influential figures."
+  },
+  {
+    "category": "Programming",
+    "subcategory": "SQL",
+    "description": "SQL (Structured Query Language) is a programming language used for managing and querying relational databases, allowing users to insert, update, delete, and retrieve data efficiently."
+  },
+  {
+    "category": "Business",
+    "subcategory": "Strategy",
+    "description": "Business Strategy involves the development and implementation of plans to achieve long-term business objectives, including competitive analysis, resource management, and market positioning."
+  },
+  {
+    "category": "Psychology",
+    "subcategory": "General Psychology",
+    "description": "General Psychology covers the study of mental processes and behavior, exploring various psychological theories, cognitive functions, emotions, and developmental stages."
+  },
+  {
+    "category": "Environmental Science",
+    "subcategory": "Sustainability",
+    "description": "Sustainability in Environmental Science focuses on practices and principles that aim to meet present needs without compromising the ability of future generations to meet theirs, including resource conservation and renewable energy."
+  },
+  {
+    "category": "Physics",
+    "subcategory": "Nuclear Physics",
+    "description": "Nuclear Physics studies the components and behavior of atomic nuclei, exploring nuclear reactions, radiation, and applications in energy production and medical imaging."
+  },
+  {
+    "category": "Philosophy",
+    "subcategory": "Mind",
+    "description": "Philosophy of Mind explores the nature of consciousness, mental states, and the relationship between the mind and the physical body, addressing questions about thought, perception, and identity."
+  },
+  {
+    "category": "Engineering",
+    "subcategory": "Mechanical Engineering",
+    "description": "Mechanical Engineering involves the design, analysis, and manufacturing of mechanical systems, focusing on principles of mechanics, thermodynamics, and materials science."
+  },
+  {
+    "category": "History",
+    "subcategory": "American History",
+    "description": "American History examines the history of the United States from its colonial origins to the present, covering key events, social changes, political developments, and cultural milestones."
+  },
+  {
+    "category": "Accounting",
+    "subcategory": "Managerial Accounting",
+    "description": "Managerial Accounting provides financial information to managers within organizations to assist in decision-making, budgeting, and performance evaluation."
+  },
+  {
+    "category": "Law",
+    "subcategory": "Criminal Law",
+    "description": "Criminal Law involves the study of laws related to crime, including the definition of criminal offenses, the legal procedures for prosecution, and the penalties for convicted offenders."
+  },
+  {
+    "category": "Programming",
+    "subcategory": "C#",
+    "description": "C# is a modern, object-oriented programming language developed by Microsoft, widely used for developing desktop applications, web applications, and games."
+  },
+  {
+    "category": "Physics",
+    "subcategory": "Optics",
+    "description": "Optics is a branch of physics that studies the behavior and properties of light, including its interactions with matter, and the design of instruments like lenses and mirrors."
+  },
+  {
+    "category": "Chemistry",
+    "subcategory": "General Chemistry",
+    "description": "General Chemistry covers the fundamental concepts of chemistry, including atomic structure, chemical bonding, reactions, stoichiometry, and the properties of matter."
+  },
+  {
+    "category": "Astronomy",
+    "subcategory": "Observational Astronomy",
+    "description": "Observational Astronomy involves the study of celestial objects and phenomena using telescopes and other instruments to collect data about stars, planets, galaxies, and the universe."
+  },
+  {
+    "category": "Mathematics",
+    "subcategory": "Discrete Mathematics",
+    "description": "Discrete Mathematics focuses on mathematical structures that are fundamentally discrete rather than continuous, including topics such as graph theory, combinatorics, and logic."
+  },
+  {
+    "category": "Physics",
+    "subcategory": "Electromagnetism",
+    "description": "Electromagnetism is a branch of physics that studies the interactions between electric and magnetic fields, including the behavior of charged particles and the propagation of electromagnetic waves."
+  },
+  {
+    "category": "Education",
+    "subcategory": "Curriculum",
+    "description": "Curriculum in Education refers to the structured content and learning experiences provided in educational programs, including the development and organization of courses and instructional materials."
+  },
+  {
+    "category": "Anthropology",
+    "subcategory": "Archaeology",
+    "description": "Archaeology is a branch of Anthropology that studies human history and prehistory through the excavation and analysis of artifacts, structures, and other physical remains."
+  },
+  {
+    "category": "Programming",
+    "subcategory": "C++",
+    "description": "C++ is a powerful, high-performance programming language used for developing system software, game engines, and applications requiring efficient resource management."
+  },
+  {
+    "category": "Programming",
+    "subcategory": "JavaScript",
+    "description": "JavaScript is a versatile programming language primarily used for creating dynamic and interactive content on web pages, enabling features such as animations, form validation, and API integration."
+  },
+  {
+    "category": "Programming",
+    "subcategory": "Perl",
+    "description": "Perl is a high-level, general-purpose programming language known for its text processing capabilities, often used for scripting, web development, and network programming."
+  },
+  {
+    "category": "Biology",
+    "subcategory": "Anatomy",
+    "description": "Anatomy is the branch of biology that studies the structure and organization of living organisms, including the human body, and the relationships between its parts."
+  },
+  {
+    "category": "Accounting",
+    "subcategory": "Auditing",
+    "description": "Auditing involves the systematic examination and evaluation of financial records and statements to ensure accuracy, compliance with regulations, and the detection of fraud or errors."
+  },
+  {
+    "category": "Philosophy",
+    "subcategory": "Politics",
+    "description": "Philosophy of Politics explores the ethical and philosophical foundations of political systems, governance, justice, rights, and the role of the state in society."
+  },
+  {
+    "category": "Linguistics",
+    "subcategory": "Historical Linguistics",
+    "description": "Historical Linguistics studies the development and evolution of languages over time, including the analysis of language change, language families, and the reconstruction of ancient languages."
+  },
+  {
+    "category": "Computer Science",
+    "subcategory": "Operating Systems",
+    "description": "Operating Systems in Computer Science refers to the software that manages hardware resources and provides services for computer programs, including tasks like memory management, process scheduling, and file handling."
+  },
+  {
+    "category": "Anthropology",
+    "subcategory": "Biological Anthropology",
+    "description": "Biological Anthropology studies the biological and evolutionary aspects of humans, including human genetics, primatology, paleoanthropology, and the study of human physical variation."
+  },
+  {
+    "category": "Mathematics",
+    "subcategory": "Algebra",
+    "description": "Algebra is a branch of mathematics that deals with symbols and the rules for manipulating those symbols, including solving equations, understanding functions, and working with polynomials."
+  },
+  {
+    "category": "Physics",
+    "subcategory": "Quantum Mechanics",
+    "description": "Quantum Mechanics is a fundamental theory in physics that describes the behavior of particles on the atomic and subatomic levels, including phenomena like superposition, entanglement, and wave-particle duality."
+  },
+  {
+    "category": "Sociology",
+    "subcategory": "General Sociology",
+    "description": "General Sociology explores the study of society, social institutions, and social relationships, including the analysis of social structures, cultural norms, and social behavior."
+  },
+  {
+    "category": "Anthropology",
+    "subcategory": "Linguistic Anthropology",
+    "description": "Linguistic Anthropology examines the relationship between language and culture, including how language shapes communication, social identity, and cultural practices across different societies."
+  },
+  {
+    "category": "Sociology",
+    "subcategory": "Social Movements",
+    "description": "Social Movements in Sociology refers to the study of organized collective actions aimed at promoting or resisting change in society, including the examination of movement dynamics, strategies, and impacts."
+  },
+  {
+    "category": "Statistics",
+    "subcategory": "Statistical Methods",
+    "description": "Statistical Methods involve techniques for collecting, analyzing, interpreting, and presenting data, including concepts such as probability, hypothesis testing, regression, and sampling."
+  },
+  {
+    "category": "Business",
+    "subcategory": "Management",
+    "description": "Management in Business refers to the process of planning, organizing, leading, and controlling resources, including people, finances, and operations, to achieve organizational goals."
+  },
+  {
+    "category": "Sociology",
+    "subcategory": "Health",
+    "description": "Health Sociology examines the social determinants of health, including how factors like socioeconomic status, race, gender, and environment influence health outcomes and healthcare access."
+  },
+  {
+    "category": "Accounting",
+    "subcategory": "Information Systems",
+    "description": "Accounting Information Systems involves the study and application of information technology in accounting, including the design, implementation, and management of systems that collect, process, and report financial data."
+  },
+  {
+    "category": "Sociology",
+    "subcategory": "Education",
+    "description": "Sociology of Education explores how educational institutions and experiences affect individuals and society, including issues related to inequality, socialization, curriculum, and educational policies."
+  },
+  {
+    "category": "Art History",
+    "subcategory": "Contemporary Art",
+    "description": "Contemporary Art History studies the art of the late 20th and 21st centuries, exploring diverse forms, movements, and themes, including the impact of technology, globalization, and cultural identity on artistic expression."
+  },
+  {
+    "category": "Economics",
+    "subcategory": "General Economics",
+    "description": "General Economics covers the basic principles of economics, including supply and demand, market structures, economic systems, and the role of government in economic activities."
+  },
+  {
+    "category": "Anthropology",
+    "subcategory": "Cultural Anthropology",
+    "description": "Cultural Anthropology studies human cultures, including beliefs, practices, values, and social structures, with a focus on understanding cultural diversity and the commonalities among different societies."
+  },
+  {
+    "category": "Statistics",
+    "subcategory": "Descriptive Statistics",
+    "description": "Descriptive Statistics involves methods for summarizing and describing the main features of a data set, including measures of central tendency, variability, and graphical representations like histograms and bar charts."
+  },
+  {
+    "category": "Political Science",
+    "subcategory": "Public Policy",
+    "description": "Public Policy in Political Science refers to the study of the processes and outcomes of government decisions and actions, including policy formulation, implementation, evaluation, and the impact on society."
+  },
+  {
+    "category": "Political Science",
+    "subcategory": "Comparative Politics",
+    "description": "Comparative Politics involves the comparison of political systems, institutions, and behaviors across different countries, analyzing similarities and differences to understand how political systems operate globally."
+  },
+  {
+    "category": "Chemistry",
+    "subcategory": "Inorganic Chemistry",
+    "description": "Inorganic Chemistry studies the properties and behaviors of inorganic compounds, including metals, minerals, and organometallic compounds, and their applications in fields like catalysis, materials science, and medicine."
+  },
+  {
+    "category": "Statistics",
+    "subcategory": "Biostatistics",
+    "description": "Biostatistics applies statistical methods to biological, medical, and health sciences research, including the design of experiments, analysis of clinical trials, and interpretation of epidemiological data."
+  },
+  {
+    "category": "Art History",
+    "subcategory": "Modern Art",
+    "description": "Modern Art History focuses on the art produced between the late 19th and mid-20th centuries, exploring movements such as Impressionism, Cubism, Surrealism, and Abstract Expressionism, and their impact on the art world."
+  },
+  {
+    "category": "Astronomy",
+    "subcategory": "Astrophysics",
+    "description": "Astrophysics studies the physical properties and processes of celestial objects and phenomena, including stars, galaxies, black holes, and the fundamental forces governing the universe."
+  },
+  {
+    "category": "Programming",
+    "subcategory": "TypeScript",
+    "description": "TypeScript is a typed superset of JavaScript that adds static types to the language, enabling better tooling, error detection, and large-scale application development."
+  },
+  {
+    "category": "Statistics",
+    "subcategory": "Data Analysis",
+    "description": "Data Analysis in Statistics involves the process of examining, cleaning, transforming, and modeling data to discover useful information, draw conclusions, and support decision-making."
+  },
+  {
+    "category": "Environmental Science",
+    "subcategory": "Climate Change",
+    "description": "Climate Change in Environmental Science examines the long-term changes in Earth's climate system, including the causes, impacts, and mitigation strategies related to global warming and environmental sustainability."
+  },
+  {
+    "category": "Computer Science",
+    "subcategory": "Databases",
+    "description": "Databases in Computer Science refer to the organized collection of data that can be accessed, managed, and updated, including the study of database design, management systems, and query languages like SQL."
+  },
+  {
+    "category": "Chemistry",
+    "subcategory": "Analytical Chemistry",
+    "description": "Analytical Chemistry involves the study of techniques and methods for analyzing the composition of substances, including qualitative and quantitative analysis, spectroscopy, and chromatography."
+  },
+  {
+    "category": "Psychology",
+    "subcategory": "Abnormal Psychology",
+    "description": "Abnormal Psychology studies atypical patterns of behavior, thought, and emotion, including the diagnosis, treatment, and understanding of mental disorders such as depression, anxiety, and schizophrenia."
+  },
+  {
+    "category": "Sociology",
+    "subcategory": "Inequality",
+    "description": "Sociology of Inequality explores the social, economic, and political disparities that exist within and between societies, examining the causes and consequences of inequality related to class, race, gender, and other factors."
+  },
+  {
+    "category": "Biology",
+    "subcategory": "Biochemistry",
+    "description": "Biochemistry studies the chemical processes within and related to living organisms, including the structure and function of biomolecules, metabolism, and the molecular basis of diseases."
+  },
+  {
+    "category": "Business",
+    "subcategory": "Consumer Behavior",
+    "description": "Consumer Behavior in Business studies the decision-making processes of individuals and groups when purchasing goods and services, including factors influencing buying decisions, marketing strategies, and consumer psychology."
+  },
+  {
+    "category": "Business",
+    "subcategory": "Digital Marketing",
+    "description": "Digital Marketing involves promoting products and services using digital technologies, including online advertising, social media marketing, content marketing, search engine optimization, and data analytics."
+  },
+  {
+    "category": "Education",
+    "subcategory": "General Education",
+    "description": "General Education covers the foundational principles and practices of teaching and learning, including curriculum development, instructional strategies, and educational psychology."
+  },
+  {
+    "category": "Education",
+    "subcategory": "Psychology",
+    "description": "Educational Psychology studies the psychological processes involved in learning, including cognitive development, motivation, instructional methods, and assessment techniques."
+  },
+  {
+    "category": "Environmental Science",
+    "subcategory": "General Environmental Science",
+    "description": "General Environmental Science studies the interactions between humans and the environment, including topics like ecosystems, biodiversity, pollution, conservation, and sustainable practices."
+  },
+  {
+    "category": "Sociology",
+    "subcategory": "Urban Studies",
+    "description": "Urban Studies in Sociology examines the social, economic, and environmental issues related to urbanization, including urban planning, housing, transportation, and the challenges of sustainable urban development."
+  },
+  {
+    "category": "Law",
+    "subcategory": "Property Law",
+    "description": "Property Law involves the study of legal rules and principles governing the ownership, use, and transfer of property, including real estate, intellectual property, and personal property rights."
+  },
+  {
+    "category": "Computer Science",
+    "subcategory": "AI",
+    "description": "Artificial Intelligence (AI) in Computer Science involves the development of algorithms and systems that enable machines to perform tasks that typically require human intelligence, such as learning, reasoning, problem-solving, and decision-making."
+  },
+  {
+    "category": "Environmental Science",
+    "subcategory": "Chemistry",
+    "description": "Environmental Chemistry studies the chemical processes that occur in the environment, including the effects of pollutants, the chemical composition of natural resources, and the development of sustainable chemical practices."
+  },
+  {
+    "category": "Accounting",
+    "subcategory": "Cost Accounting",
+    "description": "Cost Accounting involves the recording, analysis, and reporting of costs associated with the production of goods and services, including budgeting, cost control, and profitability analysis."
+  },
+  {
+    "category": "Biology",
+    "subcategory": "Evolution",
+    "description": "Evolution in Biology studies the process by which species change over time through natural selection, genetic drift, mutation, and gene flow, leading to the diversity of life on Earth."
+  },
+  {
+    "category": "Environmental Science",
+    "subcategory": "Conservation",
+    "description": "Conservation in Environmental Science focuses on the protection and management of natural resources and biodiversity, including strategies to preserve ecosystems, wildlife, and habitats from degradation and extinction."
+  },
+  {
+    "category": "Physics",
+    "subcategory": "Thermodynamics",
+    "description": "Thermodynamics is the branch of physics that studies the relationships between heat, energy, and work, including the laws of thermodynamics and their applications in engines, refrigerators, and other systems."
+  },
+  {
+    "category": "Programming",
+    "subcategory": "Kotlin",
+    "description": "Kotlin is a modern, statically typed programming language that is fully interoperable with Java and is widely used for Android app development, web development, and server-side applications."
+  },
+  {
+    "category": "Engineering",
+    "subcategory": "General Engineering",
+    "description": "General Engineering covers the broad principles and practices of engineering across various disciplines, including the application of scientific and mathematical principles to design, build, and maintain structures, machines, and systems."
+  },
+  {
+    "category": "Computer Science",
+    "subcategory": "Security",
+    "description": "Computer Security involves protecting computer systems and networks from information disclosure, theft, damage, and disruption, including the study of cryptography, network security, and cybersecurity protocols."
+  },
+  {
+    "category": "Chemistry",
+    "subcategory": "Sustainable Chemistry",
+    "description": "Sustainable Chemistry focuses on the development of chemical processes and products that reduce or eliminate the use and generation of hazardous substances, aiming to minimize environmental impact and enhance resource efficiency."
+  },
+  {
+    "category": "Political Science",
+    "subcategory": "Political Theory",
+    "description": "Political Theory in Political Science explores the ideas and concepts that have shaped political thought throughout history, including theories of justice, democracy, liberty, and the role of the state."
+  },
+  {
+    "category": "Economics",
+    "subcategory": "Economic Policy",
+    "description": "Economic Policy involves the study of government actions aimed at influencing economic activity, including fiscal policy, monetary policy, trade policy, and regulatory measures to promote economic stability and growth."
+  },
+  {
+    "category": "Linguistics",
+    "subcategory": "Psycholinguistics",
+    "description": "Psycholinguistics studies the psychological processes involved in the comprehension, production, and acquisition of language, including how the brain processes and understands linguistic information."
+  },
+  {
+    "category": "Anthropology",
+    "subcategory": "General Anthropology",
+    "description": "General Anthropology covers the holistic study of humans, their ancestors, and related primates, encompassing the fields of cultural, biological, linguistic, and archaeological anthropology."
+  },
+  {
+    "category": "Astronomy",
+    "subcategory": "Planetary Science",
+    "description": "Planetary Science studies the formation, structure, and evolution of planets, moons, and other celestial bodies within our solar system and beyond, including their atmospheres, surfaces, and potential for life."
+  },
+  {
+    "category": "Economics",
+    "subcategory": "Public Economics",
+    "description": "Public Economics examines the role of government in the economy, focusing on issues like taxation, government spending, public goods, and the impact of government policies on economic efficiency and distribution."
+  },
+  {
+    "category": "Law",
+    "subcategory": "Constitutional Law",
+    "description": "Constitutional Law studies the fundamental principles and rules governing the structure and operation of a government, including the interpretation and application of constitutional rights, powers, and limitations."
+  },
+  {
+    "category": "Sociology",
+    "subcategory": "Religion",
+    "description": "Sociology of Religion examines the social aspects of religious beliefs, practices, and institutions, including the role of religion in society, the relationship between religion and social change, and the interaction between religion and other social institutions."
+  },
+  {
+    "category": "Psychology",
+    "subcategory": "Developmental Psychology",
+    "description": "Developmental Psychology studies the psychological changes that occur across the lifespan, from infancy to old age, including cognitive, emotional, social, and moral development."
+  },
+  {
+    "category": "Art History",
+    "subcategory": "General Art History",
+    "description": "General Art History explores the history of art across different cultures and periods, including the study of artistic styles, techniques, movements, and the influence of historical contexts on artistic expression."
+  },
+  {
+    "category": "Computer Science",
+    "subcategory": "Algorithms",
+    "description": "Algorithms in Computer Science refer to the step-by-step procedures used for solving problems and performing tasks, including sorting, searching, optimization, and data processing."
+  },
+  {
+    "category": "Economics",
+    "subcategory": "International Trade",
+    "description": "International Trade studies the exchange of goods, services, and capital between countries, including the theories of comparative advantage, trade policies, tariffs, and the impact of globalization on economies."
+  },
+  {
+    "category": "Philosophy",
+    "subcategory": "Science",
+    "description": "Philosophy of Science explores the foundational questions about the nature of scientific inquiry, including the methods, assumptions, and implications of scientific theories, as well as the relationship between science and society."
+  },
+  {
+    "category": "Computer Science",
+    "subcategory": "Software Engineering",
+    "description": "Software Engineering involves the application of engineering principles to the design, development, testing, and maintenance of software systems, focusing on quality, reliability, and efficiency."
+  },
+  {
+    "category": "Economics",
+    "subcategory": "Macroeconomics",
+    "description": "Macroeconomics studies the behavior and performance of an economy as a whole, including issues like inflation, unemployment, economic growth, and monetary and fiscal policies."
+  },
+  {
+    "category": "Accounting",
+    "subcategory": "Ethics",
+    "description": "Accounting Ethics involves the study of moral principles and standards that guide the behavior of accountants, including issues related to integrity, objectivity, confidentiality, and professional conduct."
+  },
+  {
+    "category": "Accounting",
+    "subcategory": "Taxation",
+    "description": "Taxation in Accounting involves the study of tax laws, regulations, and practices, including the preparation of tax returns, tax planning, and the impact of taxes on financial decision-making."
+  },
+  {
+    "category": "Business",
+    "subcategory": "Marketing Research",
+    "description": "Marketing Research involves the collection, analysis, and interpretation of data related to consumer behavior, market trends, and the effectiveness of marketing strategies, providing insights for decision-making."
+  },
+  {
+    "category": "Programming",
+    "subcategory": "Java",
+    "description": "Java is a versatile, object-oriented programming language widely used for building cross-platform applications, including web, mobile, and enterprise-level software."
+  },
+  {
+    "category": "Philosophy",
+    "subcategory": "Ethics",
+    "description": "Ethics in Philosophy studies the moral principles that govern human behavior, including the analysis of what is right and wrong, justice, virtue, and the nature of moral responsibility."
+  },
+  {
+    "category": "Mathematics",
+    "subcategory": "Logic",
+    "description": "Logic in Mathematics involves the study of formal systems of reasoning, including the principles of valid inference, the structure of arguments, and the foundations of mathematical proof."
+  },
+  {
+    "category": "Education",
+    "subcategory": "Leadership",
+    "description": "Educational Leadership focuses on the roles and responsibilities of leaders in educational settings, including the development of vision, management of resources, and fostering of effective teaching and learning environments."
+  },
+  {
+    "category": "Computer Science",
+    "subcategory": "General Computer Science",
+    "description": "General Computer Science covers the fundamental concepts and principles of computing, including programming, data structures, algorithms, computer architecture, and the theory of computation."
+  },
+  {
+    "category": "Art History",
+    "subcategory": "Renaissance",
+    "description": "Renaissance Art History studies the art and cultural developments of the Renaissance period, characterized by a revival of classical learning and values, and the creation of masterpieces by artists like Leonardo da Vinci, Michelangelo, and Raphael."
+  },
+  {
+    "category": "Psychology",
+    "subcategory": "Cognitive Psychology",
+    "description": "Cognitive Psychology studies the mental processes involved in perception, memory, thinking, problem-solving, and decision-making, exploring how people understand, interpret, and respond to information."
+  },
+  {
+    "category": "Business",
+    "subcategory": "Ethics",
+    "description": "Business Ethics involves the study of moral principles and standards that guide behavior in the business world, including issues related to corporate responsibility, ethical decision-making, and the impact of business practices on society."
+  },
+  {
+    "category": "Statistics",
+    "subcategory": "Experimental Design",
+    "description": "Experimental Design in Statistics involves planning experiments to ensure valid, reliable, and unbiased results, including the selection of appropriate controls, randomization, and the analysis of variance."
+  },
+  {
+    "category": "Mathematics",
+    "subcategory": "Linear Algebra",
+    "description": "Linear Algebra is a branch of mathematics that studies vectors, vector spaces, linear transformations, and systems of linear equations, with applications in science, engineering, and computer science."
+  },
+  {
+    "category": "Mathematics",
+    "subcategory": "Complex Analysis",
+    "description": "Complex Analysis studies the properties and behavior of complex numbers and functions of a complex variable, including concepts such as analyticity, contour integration, and the theory of residues."
+  },
+  {
+    "category": "Economics",
+    "subcategory": "Behavioral Economics",
+    "description": "Behavioral Economics examines the psychological factors that influence economic decision-making, challenging traditional economic models by incorporating insights from psychology and sociology."
+  },
+  {
+    "category": "Computer Science",
+    "subcategory": "Networking",
+    "description": "Computer Networking involves the study of how computers communicate with each other over networks, including the design and implementation of network protocols, architectures, and security measures."
+  },
+  {
+    "category": "Programming",
+    "subcategory": "Go",
+    "description": "Go is a statically typed, compiled programming language developed by Google, known for its simplicity, concurrency support, and efficiency, making it ideal for building scalable and high-performance applications."
+  },
+  {
+    "category": "Chemistry",
+    "subcategory": "Biochemistry",
+    "description": "Biochemistry in Chemistry focuses on the chemical processes that occur within living organisms, including the study of proteins, nucleic acids, lipids, and carbohydrates, and their roles in metabolism and cellular function."
+  },
+  {
+    "category": "Sociology",
+    "subcategory": "Political Sociology",
+    "description": "Political Sociology examines the relationship between society and politics, including the study of power, authority, governance, social movements, and the impact of political structures on social relations."
+  },
+  {
+    "category": "Economics",
+    "subcategory": "Econometrics",
+    "description": "Econometrics applies statistical methods to economic data to test hypotheses, estimate relationships, and forecast future trends, combining economic theory with statistical techniques for empirical analysis."
+  },
+  {
+    "category": "Mathematics",
+    "subcategory": "Calculus",
+    "description": "Calculus is a branch of mathematics that studies continuous change, including concepts such as limits, derivatives, integrals, and the study of functions and their behavior."
+  },
+  {
+    "category": "Physics",
+    "subcategory": "Mechanics",
+    "description": "Mechanics in Physics studies the motion of objects and the forces that cause or change motion, including the analysis of kinematics, dynamics, and the principles of Newtonian mechanics."
+  },
+  {
+    "category": "History",
+    "subcategory": "General History",
+    "description": "General History covers the broad study of historical events, trends, and movements across different periods and regions, exploring the causes and consequences of change in human societies."
+  },
+  {
+    "category": "Economics",
+    "subcategory": "Development Economics",
+    "description": "Development Economics studies the economic aspects of the development process in low-income countries, including issues related to poverty, inequality, education, health, and sustainable economic growth."
+  },
+  {
+    "category": "Biology",
+    "subcategory": "Microbiology",
+    "description": "Microbiology studies microorganisms, including bacteria, viruses, fungi, and protozoa, exploring their structure, function, ecology, and roles in disease, biotechnology, and environmental processes."
+  },
+  {
+    "category": "Statistics",
+    "subcategory": "Probability",
+    "description": "Probability in Statistics involves the study of random events and the likelihood of different outcomes, including the development of probability distributions, stochastic processes, and their applications in decision-making."
+  },
+  {
+    "category": "Political Science",
+    "subcategory": "General Political Science",
+    "description": "General Political Science explores the theory and practice of politics and government, including the study of political institutions, behavior, ideologies, and the analysis of political systems and policies."
+  },
+  {
+    "category": "Political Science",
+    "subcategory": "International Relations",
+    "description": "International Relations studies the interactions between countries, including the analysis of diplomacy, conflict, trade, international organizations, and the impact of global issues on national and international politics."
+  },
+  {
+    "category": "Economics",
+    "subcategory": "International Economics",
+    "description": "International Economics studies the flow of goods, services, and capital across international borders, including the analysis of trade policies, exchange rates, global markets, and the economic effects of globalization."
+  },
+  {
+    "category": "Engineering",
+    "subcategory": "Civil Engineering",
+    "description": "Civil Engineering involves the design, construction, and maintenance of infrastructure projects such as roads, bridges, dams, and buildings, focusing on structural integrity, materials, and environmental considerations."
+  },
+  {
+    "category": "Economics",
+    "subcategory": "Microeconomics",
+    "description": "Microeconomics studies the behavior of individuals and firms in making decisions regarding the allocation of limited resources, including the analysis of supply and demand, market structures, and consumer behavior."
+  },
+  {
+    "category": "Programming",
+    "subcategory": "Scala",
+    "description": "Scala is a programming language that combines object-oriented and functional programming paradigms, designed for building scalable and high-performance applications, particularly in big data and distributed computing."
+  },
+  {
+    "category": "Accounting",
+    "subcategory": "Financial Accounting",
+    "description": "Financial Accounting involves the preparation, reporting, and analysis of financial statements, providing information about a company's financial performance to external stakeholders, including investors and regulators."
+  },
+  {
+    "category": "Environmental Science",
+    "subcategory": "Policy",
+    "description": "Environmental Policy in Environmental Science examines the development and implementation of policies aimed at managing natural resources, reducing pollution, and addressing environmental challenges like climate change."
+  },
+  {
+    "category": "Biology",
+    "subcategory": "Cell Biology",
+    "description": "Cell Biology studies the structure, function, and behavior of cells, the basic units of life, including the analysis of cell membranes, organelles, and the processes of cell division, signaling, and metabolism."
+  },
+  {
+    "category": "Statistics",
+    "subcategory": "Time Series",
+    "description": "Time Series in Statistics involves the analysis of data points collected or recorded at specific time intervals, including the modeling and forecasting of trends, cycles, and seasonal variations in time-dependent data."
+  },
+  {
+    "category": "Engineering",
+    "subcategory": "Software Engineering",
+    "description": "Software Engineering in Engineering focuses on the systematic approach to designing, developing, testing, and maintaining software systems, ensuring quality, efficiency, and reliability in software products."
+  },
+  {
+    "category": "Biology",
+    "subcategory": "General Biology",
+    "description": "General Biology covers the study of living organisms and their interactions with the environment, including topics such as genetics, evolution, ecology, physiology, and the diversity of life forms."
+  },
+  {
+    "category": "Programming",
+    "subcategory": "Swift",
+    "description": "Swift is a modern, fast, and powerful programming language developed by Apple for building applications on iOS, macOS, watchOS, and tvOS, known for its safety features and performance optimizations."
+  },
+  {
+    "category": "Programming",
+    "subcategory": "Web Development",
+    "description": "Web Development involves the creation and maintenance of websites and web applications, including the design, coding, and deployment of front-end and back-end components using languages like HTML, CSS, JavaScript, and frameworks like React or Angular."
+  },
+  {
+    "category": "Biology",
+    "subcategory": "Genetics",
+    "description": "Genetics studies the inheritance of traits in living organisms, including the structure and function of genes, the principles of heredity, genetic variation, and the molecular mechanisms of genetic expression."
+  },
+  {
+    "category": "Biology",
+    "subcategory": "Plant Biology",
+    "description": "Plant Biology studies the structure, function, growth, reproduction, and physiology of plants, including topics like photosynthesis, plant genetics, and the role of plants in ecosystems and agriculture."
+  },
+  {
+    "category": "Linguistics",
+    "subcategory": "Sociolinguistics",
+    "description": "Sociolinguistics examines the relationship between language and society, including how language varies across social groups, regions, and cultures, and how social factors influence language use and change."
+  },
+  {
+    "category": "Chemistry",
+    "subcategory": "Physical Chemistry",
+    "description": "Physical Chemistry studies the physical properties of molecules, the forces that act upon them, and the energy changes that occur during chemical reactions, combining principles of chemistry and physics."
+  },
+  {
+    "category": "Art History",
+    "subcategory": "Criticism",
+    "description": "Art Criticism in Art History involves the analysis and evaluation of artworks, exploring their meaning, context, technique, and impact, and providing interpretations and judgments about their artistic value."
+  },
+  {
+    "category": "Business",
+    "subcategory": "Marketing",
+    "description": "Marketing in Business involves the promotion and selling of products or services, including market research, advertising, branding, pricing strategies, and customer relationship management."
+  },
+  {
+    "category": "Philosophy",
+    "subcategory": "General Philosophy",
+    "description": "General Philosophy explores the fundamental questions about existence, knowledge, values, reason, mind, and language, addressing issues such as reality, morality, consciousness, and the nature of truth."
+  },
+  {
+    "category": "Chemistry",
+    "subcategory": "Organic Chemistry",
+    "description": "Organic Chemistry studies the structure, properties, composition, reactions, and synthesis of carbon-containing compounds, including both natural and synthetic molecules such as pharmaceuticals, plastics, and fuels."
+  },
+  {
+    "category": "Linguistics",
+    "subcategory": "Language and Culture",
+    "description": "Language and Culture in Linguistics examines how language reflects and shapes cultural identities, practices, and worldviews, exploring the connections between linguistic structures and cultural phenomena."
+  },
+  {
+    "category": "Psychology",
+    "subcategory": "Clinical Psychology",
+    "description": "Clinical Psychology involves the assessment, diagnosis, and treatment of mental health disorders, including the application of therapeutic techniques to help individuals manage psychological difficulties and improve well-being."
+  },
+  {
+    "category": "Mathematics",
+    "subcategory": "Probability",
+    "description": "Probability in Mathematics involves the study of the likelihood of different outcomes in uncertain situations, providing a framework for quantifying and analyzing random events and their potential impacts."
+  },
+  {
+    "category": "Astronomy",
+    "subcategory": "Exoplanets",
+    "description": "Exoplanets in Astronomy involves the study of planets that orbit stars outside our solar system, including their detection, characterization, and the exploration of their potential to support life."
+  },
+  {
+    "category": "Education",
+    "subcategory": "Inclusion",
+    "description": "Inclusion in Education focuses on practices and policies that ensure all students, regardless of their abilities, backgrounds, or identities, have access to equitable learning opportunities and are fully integrated into the educational environment."
+  },
+  {
+    "category": "Programming",
+    "subcategory": "Rust",
+    "description": "Rust is a systems programming language known for its focus on safety, especially memory safety, concurrency, and performance, making it suitable for building reliable and efficient software systems."
+  },
+  {
+    "category": "Programming",
+    "subcategory": "PHP",
+    "description": "PHP is a widely-used open-source scripting language that is especially suited for web development, enabling the creation of dynamic content, server-side scripting, and integration with databases."
+  },
+  {
+    "category": "History",
+    "subcategory": "Medieval History",
+    "description": "Medieval History studies the history of Europe and the Mediterranean from the fall of the Roman Empire to the beginning of the Renaissance, exploring the political, social, religious, and cultural developments of the Middle Ages."
+  },
+  {
+    "category": "Linguistics",
+    "subcategory": "General Linguistics",
+    "description": "General Linguistics covers the study of language structure, function, and use, including the analysis of phonetics, phonology, syntax, semantics, and language acquisition, as well as the evolution and diversity of languages."
+  },
+  {
+    "category": "Programming",
+    "subcategory": "Python",
+    "description": "Python is a versatile, high-level programming language known for its simplicity and readability, widely used for web development, data analysis, artificial intelligence, scientific computing, and automation."
+  },
+  {
+    "category": "Business",
+    "subcategory": "Entrepreneurship",
+    "description": "Entrepreneurship in Business involves the process of starting and managing new businesses, including identifying opportunities, developing business plans, securing funding, and navigating the challenges of innovation and growth."
+  },
+  {
+    "category": "Statistics",
+    "subcategory": "Multivariate Analysis",
+    "description": "Multivariate Analysis in Statistics involves the examination of more than two variables simultaneously to understand relationships, patterns, and trends in complex data sets, including techniques like factor analysis, cluster analysis, and principal component analysis."
+  },
+  {
+    "category": "Physics",
+    "subcategory": "General Physics",
+    "description": "General Physics covers the fundamental principles of physics, including the study of mechanics, electromagnetism, thermodynamics, optics, and modern physics, providing a foundation for understanding the natural world."
+  },
+  {
+    "category": "History",
+    "subcategory": "Ancient History",
+    "description": "Ancient History studies the civilizations of the ancient world, including Mesopotamia, Egypt, Greece, Rome, and China, exploring their political systems, cultures, economies, and contributions to human civilization."
+  },
+  {
+    "category": "Biology",
+    "subcategory": "Molecular Biology",
+    "description": "Molecular Biology studies the molecular mechanisms that govern the functioning of cells, including the structure and function of DNA, RNA, and proteins, and their roles in processes like replication, transcription, and translation."
+  },
+  {
+    "category": "Business",
+    "subcategory": "Brand Management",
+    "description": "Brand Management involves the development and implementation of strategies to create and maintain a brand's identity, image, and reputation, ensuring consistency and differentiation in the market to build brand loyalty and equity."
+  },
+  {
+    "category": "Business",
+    "subcategory": "General Business",
+    "description": "General Business covers the broad range of activities involved in running a business, including management, finance, marketing, operations, and strategy, providing an overview of the key functions and principles of business."
+  },
+  {
+    "category": "Programming",
+    "subcategory": "Shell Scripting",
+    "description": "Shell Scripting involves writing scripts in a command-line shell, automating tasks such as file manipulation, program execution, and system administration, commonly used in Unix/Linux environments."
+  },
+  {
+    "category": "Philosophy",
+    "subcategory": "Aesthetics",
+    "description": "Aesthetics in Philosophy explores the nature of beauty, art, and taste, examining the principles of artistic judgment, the experience of beauty, and the cultural and emotional responses to art and design."
+  },
+  {
+    "category": "Sociology",
+    "subcategory": "Family Studies",
+    "description": "Family Studies in Sociology examines the social dynamics of families, including the roles and relationships within families, the impact of social change on family structures, and the interaction between family life and broader social institutions."
+  },
+  {
+    "category": "Programming",
+    "subcategory": "R",
+    "description": "R is a programming language and software environment commonly used for statistical computing and graphics, widely used in data analysis, statistical modeling, and data visualization."
+  },
+  {
+    "category": "Programming",
+    "subcategory": "Dart",
+    "description": "Dart is a programming language designed for building web, mobile, and server applications, developed by Google, and known for its fast execution and ease of use, particularly in building front-end user interfaces with the Flutter framework."
+  },
+  {
+    "category": "Sociology",
+    "subcategory": "Urban Sociology",
+    "description": "Urban Sociology studies the social structures, processes, and problems associated with urban life, including issues related to urbanization, housing, social inequality, and the impact of urban environments on communities and individuals."
+  },
+  {
+    "category": "Philosophy",
+    "subcategory": "Metaphysics",
+    "description": "Metaphysics in Philosophy explores the fundamental nature of reality, including questions about existence, identity, time, space, causality, and the relationship between mind and matter."
+  },
+  {
+    "category": "Art History",
+    "subcategory": "Society",
+    "description": "Art History and Society explores how art reflects and influences societal values, beliefs, and events, examining the relationship between artistic expression and social, political, and cultural contexts."
+  },
+  {
+    "category": "Programming",
+    "subcategory": "Ruby",
+    "description": "Ruby is a dynamic, object-oriented programming language known for its simplicity and productivity, widely used in web development, particularly with the Ruby on Rails framework."
+  },
+  {
+    "category": "Law",
+    "subcategory": "General Law",
+    "description": "General Law covers the foundational principles and concepts of law, including the study of legal systems, rights and duties, contracts, torts, property law, and the role of law in society."
+  },
+  {
+    "category": "Sociology",
+    "subcategory": "Criminology",
+    "description": "Criminology in Sociology studies the causes, consequences, and prevention of crime, including the analysis of criminal behavior, the criminal justice system, and the social and economic factors that influence crime rates."
+  },
+  {
+    "category": "Political Science",
+    "subcategory": "Government",
+    "description": "Government in Political Science studies the structures, functions, and processes of government institutions, including the analysis of political systems, public administration, and the role of government in society."
+  },
+  {
+    "category": "History",
+    "subcategory": "Modern History",
+    "description": "Modern History studies the history of the world from the late 15th century to the present, including the development of nation-states, industrialization, colonialism, world wars, and contemporary global issues."
+  },
+  {
+    "category": "Computer Science",
+    "subcategory": "Programming",
+    "description": "Programming in Computer Science involves the creation of software applications by writing code in various programming languages, including understanding algorithms, data structures, and software development methodologies."
+  },
+  {
+    "category": "Physics",
+    "subcategory": "Statistical Mechanics",
+    "description": "Statistical Mechanics in Physics studies the behavior of systems with a large number of particles, using statistical methods to relate the microscopic properties of particles to the macroscopic properties of materials, such as temperature and pressure."
+  },
+  {
+    "category": "Sociology",
+    "subcategory": "Research Methods",
+    "description": "Research Methods in Sociology involve the systematic study of social phenomena, including the design, data collection, and analysis of qualitative and quantitative research, as well as the ethical considerations of conducting sociological research."
+  },
+  {
+    "category": "Law",
+    "subcategory": "Contract Law",
+    "description": "Contract Law involves the study of the legal principles that govern the formation, interpretation, and enforcement of contracts, including the rights and obligations of the parties involved in contractual agreements."
+  },
+  {
+    "category": "Engineering",
+    "subcategory": "Electrical Engineering",
+    "description": "Electrical Engineering involves the study and application of electricity, electronics, and electromagnetism, including the design and development of electrical systems, circuits, and devices used in power generation, telecommunications, and computing."
+  },
+  {
+    "category": "Astronomy",
+    "subcategory": "General Astronomy",
+    "description": "General Astronomy covers the study of celestial objects and phenomena, including stars, planets, galaxies, and the universe as a whole, exploring the fundamental principles of astrophysics, cosmology, and observational techniques."
+  },
+  {
+    "category": "Chemistry",
+    "subcategory": "Medicinal Chemistry",
+    "description": "Medicinal Chemistry involves the design, synthesis, and development of pharmaceutical compounds, focusing on the chemical aspects of drug discovery and the interaction of drugs with biological targets to treat diseases."
+  },
+  {
+    "category": "Sociology",
+    "subcategory": "Social Theory",
+    "description": "Social Theory in Sociology explores the theoretical frameworks that explain social phenomena, including the analysis of social structures, power, inequality, and the processes of social change."
+  }
+]

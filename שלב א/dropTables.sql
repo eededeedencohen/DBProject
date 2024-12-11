@@ -1,0 +1,12 @@
+drop table RequestAssignments;
+drop table LibraryRequests;
+drop table RequestsRooms;
+drop table StudyRooms;
+drop table Reviews;
+drop table Lent;
+drop table Students;
+drop table BookStatuses;
+drop table Books;
+drop table Librarians;
+drop table BookAuthors;
+drop table BookCategories;

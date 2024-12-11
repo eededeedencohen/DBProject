@@ -1,0 +1,512 @@
+{
+  "1": [
+    {
+      "Review_title": "Disappointing Read",
+      "Review_text": "The storyline was weak and the characters were underdeveloped. I couldn't finish it."
+    },
+    {
+      "Review_title": "Not Worth the Time",
+      "Review_text": "I found the plot to be predictable and the writing style unengaging."
+    },
+    {
+      "Review_title": "Poorly Written",
+      "Review_text": "The grammar and spelling mistakes made it difficult to read. Very disappointing."
+    },
+    {
+      "Review_title": "Boring",
+      "Review_text": "The book failed to capture my interest. I struggled to get through it."
+    },
+    {
+      "Review_title": "Unimpressed",
+      "Review_text": "I had high expectations but was left unimpressed by the lack of depth in the story."
+    },
+    {
+      "Review_title": "Not Enjoyable",
+      "Review_text": "The book did not live up to the hype. It was a chore to finish."
+    },
+    {
+      "Review_title": "Waste of Time",
+      "Review_text": "I regret spending time on this book. The plot was very slow and uninteresting."
+    },
+    {
+      "Review_title": "Unoriginal",
+      "Review_text": "The book felt like a rehash of other better-written stories."
+    },
+    {
+      "Review_title": "Dull and Tedious",
+      "Review_text": "The pacing was too slow, and the story didn't hold my attention."
+    },
+    {
+      "Review_title": "Forgettable",
+      "Review_text": "I found the book to be quite forgettable. Nothing stood out to me."
+    },
+    {
+      "Review_title": "Not for Me",
+      "Review_text": "I couldn't relate to the characters or the story. It just wasn't my cup of tea."
+    },
+    {
+      "Review_title": "Underwhelming",
+      "Review_text": "The book had potential but fell flat in execution. I was disappointed."
+    },
+    {
+      "Review_title": "Hard to Follow",
+      "Review_text": "The plot was convoluted and hard to follow. I lost interest quickly."
+    },
+    {
+      "Review_title": "Lackluster",
+      "Review_text": "The book lacked excitement and intrigue. I wouldn't recommend it."
+    },
+    {
+      "Review_title": "Predictable",
+      "Review_text": "The story was predictable and didn't offer any surprises."
+    },
+    {
+      "Review_title": "Disjointed",
+      "Review_text": "The narrative was disjointed and difficult to follow."
+    },
+    {
+      "Review_title": "Tedious",
+      "Review_text": "The book was tedious to read. I struggled to get through it."
+    },
+    {
+      "Review_title": "Mediocre",
+      "Review_text": "The book was mediocre at best. It didn't leave a lasting impression."
+    },
+    {
+      "Review_title": "Lacked Depth",
+      "Review_text": "The characters were one-dimensional and the plot lacked depth."
+    },
+    {
+      "Review_title": "Not Engaging",
+      "Review_text": "The book failed to engage me. I found it hard to care about the story."
+    },
+    {
+      "Review_title": "Poor Character Development",
+      "Review_text": "The characters were poorly developed and uninteresting."
+    },
+    {
+      "Review_title": "Slow and Boring",
+      "Review_text": "The pacing was slow and the story was boring."
+    },
+    {
+      "Review_title": "Inconsistent",
+      "Review_text": "The story was inconsistent and hard to follow."
+    },
+    {
+      "Review_title": "Unsatisfying",
+      "Review_text": "The ending was unsatisfying and left many questions unanswered."
+    },
+    {
+      "Review_title": "Overhyped",
+      "Review_text": "The book did not live up to the hype. It was a major letdown."
+    }
+  ],
+  "2": [
+    {
+      "Review_title": "Could Be Better",
+      "Review_text": "The book had potential but ultimately fell short."
+    },
+    {
+      "Review_title": "Average Read",
+      "Review_text": "It was an average read, nothing special."
+    },
+    {
+      "Review_title": "Not Memorable",
+      "Review_text": "The book was okay but not particularly memorable."
+    },
+    {
+      "Review_title": "Decent but Flawed",
+      "Review_text": "There were some good moments, but the book had many flaws."
+    },
+    {
+      "Review_title": "Mediocre",
+      "Review_text": "The book was mediocre. It didn't really stand out."
+    },
+    {
+      "Review_title": "Unremarkable",
+      "Review_text": "The story was unremarkable and didn't leave a lasting impression."
+    },
+    {
+      "Review_title": "Just Okay",
+      "Review_text": "The book was just okay. It wasn't bad, but it wasn't great either."
+    },
+    {
+      "Review_title": "Not Engaging",
+      "Review_text": "I found it hard to stay engaged with the story."
+    },
+    {
+      "Review_title": "Mundane",
+      "Review_text": "The book was mundane and didn't capture my interest."
+    },
+    {
+      "Review_title": "Lacked Excitement",
+      "Review_text": "The story lacked excitement and intrigue."
+    },
+    {
+      "Review_title": "Mildly Entertaining",
+      "Review_text": "The book was mildly entertaining, but not much more than that."
+    },
+    {
+      "Review_title": "Uninspired",
+      "Review_text": "The book felt uninspired and lacked creativity."
+    },
+    {
+      "Review_title": "So-So",
+      "Review_text": "It was a so-so read. There were better books out there."
+    },
+    {
+      "Review_title": "Mildly Disappointing",
+      "Review_text": "I was mildly disappointed with the overall story."
+    },
+    {
+      "Review_title": "Lacked Depth",
+      "Review_text": "The story and characters lacked depth."
+    },
+    {
+      "Review_title": "Passable",
+      "Review_text": "The book was passable, but it didn't leave a strong impression."
+    },
+    {
+      "Review_title": "Not Great",
+      "Review_text": "It wasn't great, but it wasn't terrible either."
+    },
+    {
+      "Review_title": "Mediocre Storyline",
+      "Review_text": "The storyline was mediocre and didn't hold my interest."
+    },
+    {
+      "Review_title": "Underwhelming",
+      "Review_text": "The book was underwhelming and didn't meet my expectations."
+    },
+    {
+      "Review_title": "Fair Read",
+      "Review_text": "It was a fair read, but not something I'd recommend."
+    },
+    {
+      "Review_title": "Not Impressed",
+      "Review_text": "I wasn't impressed with the story or the characters."
+    },
+    {
+      "Review_title": "Could Be Improved",
+      "Review_text": "The book could be improved with better character development."
+    },
+    {
+      "Review_title": "Decent Effort",
+      "Review_text": "It was a decent effort, but it didn't quite hit the mark."
+    },
+    {
+      "Review_title": "Lackluster",
+      "Review_text": "The story was lackluster and failed to captivate me."
+    },
+    {
+      "Review_title": "Average at Best",
+      "Review_text": "The book was average at best, not very memorable."
+    }
+  ],
+  "3": [
+    {
+      "Review_title": "Good Read",
+      "Review_text": "It was a good read, but not exceptional."
+    },
+    {
+      "Review_title": "Enjoyable",
+      "Review_text": "I enjoyed the book, but it wasn't amazing."
+    },
+    {
+      "Review_title": "Solid Story",
+      "Review_text": "The story was solid and kept me entertained."
+    },
+    {
+      "Review_title": "Decent Book",
+      "Review_text": "It was a decent book, worth a read."
+    },
+    {
+      "Review_title": "Pleasantly Surprised",
+      "Review_text": "I was pleasantly surprised by the story."
+    },
+    {
+      "Review_title": "Worth Reading",
+      "Review_text": "The book was worth reading, but not outstanding."
+    },
+    {
+      "Review_title": "Engaging Story",
+      "Review_text": "The story was engaging and kept my interest."
+    },
+    {
+      "Review_title": "Entertaining",
+      "Review_text": "The book was entertaining and enjoyable."
+    },
+    {
+      "Review_title": "Satisfying",
+      "Review_text": "I found the book to be satisfying overall."
+    },
+    {
+      "Review_title": "Good Effort",
+      "Review_text": "The author made a good effort with this book."
+    },
+    {
+      "Review_title": "Interesting",
+      "Review_text": "The book was interesting and had some good points."
+    },
+    {
+      "Review_title": "Well-Written",
+      "Review_text": "The writing was good, but the story could have been better."
+    },
+    {
+      "Review_title": "Nice Read",
+      "Review_text": "It was a nice read, but not something I'd read again."
+    },
+    {
+      "Review_title": "Pretty Good",
+      "Review_text": "The book was pretty good overall."
+    },
+    {
+      "Review_title": "Held My Interest",
+      "Review_text": "The book held my interest, but it wasn't amazing."
+    },
+    {
+      "Review_title": "Decent Plot",
+      "Review_text": "The plot was decent and kept me reading."
+    },
+    {
+      "Review_title": "Enjoyable Enough",
+      "Review_text": "The book was enjoyable enough to finish."
+    },
+    {
+      "Review_title": "Not Bad",
+      "Review_text": "It wasn't bad, but it wasn't great either."
+    },
+    {
+      "Review_title": "Liked It",
+      "Review_text": "I liked the book, but it didn't blow me away."
+    },
+    {
+      "Review_title": "Good Characters",
+      "Review_text": "The characters were good, but the plot was just okay."
+    },
+    {
+      "Review_title": "Kept Me Reading",
+      "Review_text": "The book kept me reading, but it wasn't unforgettable."
+    },
+    {
+      "Review_title": "Nice Story",
+      "Review_text": "The story was nice, but nothing groundbreaking."
+    },
+    {
+      "Review_title": "Decent Read",
+      "Review_text": "It was a decent read, but I've read better."
+    },
+    {
+      "Review_title": "Engaging Enough",
+      "Review_text": "The book was engaging enough to finish."
+    },
+    {
+      "Review_title": "Fairly Good",
+      "Review_text": "The book was fairly good, but not outstanding."
+    }
+  ],
+  "4": [
+    {
+      "Review_title": "Great Read",
+      "Review_text": "This was a great read! I really enjoyed it."
+    },
+    {
+      "Review_title": "Loved It",
+      "Review_text": "I loved this book! The story was fantastic."
+    },
+    {
+      "Review_title": "Highly Recommend",
+      "Review_text": "I highly recommend this book to anyone."
+    },
+    {
+      "Review_title": "Wonderful Story",
+      "Review_text": "The story was wonderful and very engaging."
+    },
+    {
+      "Review_title": "Excellent",
+      "Review_text": "This book was excellent. I couldn't put it down."
+    },
+    {
+      "Review_title": "Well-Written",
+      "Review_text": "The writing was excellent and the story was captivating."
+    },
+    {
+      "Review_title": "Very Enjoyable",
+      "Review_text": "I found the book very enjoyable and well worth reading."
+    },
+    {
+      "Review_title": "Compelling",
+      "Review_text": "The story was compelling and kept me hooked."
+    },
+    {
+      "Review_title": "Thoroughly Enjoyed",
+      "Review_text": "I thoroughly enjoyed this book from start to finish."
+    },
+    {
+      "Review_title": "Fantastic",
+      "Review_text": "The book was fantastic! I highly recommend it."
+    },
+    {
+      "Review_title": "Couldn't Put It Down",
+      "Review_text": "I couldn't put this book down. It was so good!"
+    },
+    {
+      "Review_title": "Great Characters",
+      "Review_text": "The characters were great and very well-developed."
+    },
+    {
+      "Review_title": "Amazing Story",
+      "Review_text": "The story was amazing and kept me entertained."
+    },
+    {
+      "Review_title": "Very Engaging",
+      "Review_text": "The book was very engaging and well-written."
+    },
+    {
+      "Review_title": "Really Good",
+      "Review_text": "This was a really good book. I enjoyed it a lot."
+    },
+    {
+      "Review_title": "Fascinating",
+      "Review_text": "The story was fascinating and very well told."
+    },
+    {
+      "Review_title": "Well Done",
+      "Review_text": "The author did a great job with this book."
+    },
+    {
+      "Review_title": "Enjoyed Every Moment",
+      "Review_text": "I enjoyed every moment of this book. Highly recommend."
+    },
+    {
+      "Review_title": "Captivating",
+      "Review_text": "The book was captivating and kept me interested."
+    },
+    {
+      "Review_title": "Excellent Read",
+      "Review_text": "This was an excellent read. I really liked it."
+    },
+    {
+      "Review_title": "Page-Turner",
+      "Review_text": "The book was a real page-turner. Very exciting."
+    },
+    {
+      "Review_title": "Great Plot",
+      "Review_text": "The plot was great and very well thought out."
+    },
+    {
+      "Review_title": "Impressive",
+      "Review_text": "I was very impressed with this book. Well done!"
+    },
+    {
+      "Review_title": "Couldn't Stop Reading",
+      "Review_text": "I couldn't stop reading. It was so good!"
+    },
+    {
+      "Review_title": "Highly Enjoyable",
+      "Review_text": "The book was highly enjoyable and very well-written."
+    }
+  ],
+  "5": [
+    {
+      "Review_title": "Masterpiece",
+      "Review_text": "This book is an absolute masterpiece. A must-read!"
+    },
+    {
+      "Review_title": "Outstanding",
+      "Review_text": "Outstanding book! One of the best I've ever read."
+    },
+    {
+      "Review_title": "Perfect",
+      "Review_text": "Everything about this book is perfect. Loved it!"
+    },
+    {
+      "Review_title": "Incredible",
+      "Review_text": "Incredible book. I was hooked from start to finish."
+    },
+    {
+      "Review_title": "Phenomenal",
+      "Review_text": "Phenomenal story and writing. Highly recommend!"
+    },
+    {
+      "Review_title": "Exceptional",
+      "Review_text": "Exceptional book. Truly a work of art."
+    },
+    {
+      "Review_title": "Best Book Ever",
+      "Review_text": "This is the best book I've ever read. Amazing!"
+    },
+    {
+      "Review_title": "Absolutely Amazing",
+      "Review_text": "Absolutely amazing! I loved every page."
+    },
+    {
+      "Review_title": "Incredible Story",
+      "Review_text": "The story was incredible. I couldn't put it down."
+    },
+    {
+      "Review_title": "Fantastic Read",
+      "Review_text": "Fantastic read. Highly recommend to everyone."
+    },
+    {
+      "Review_title": "Brilliant",
+      "Review_text": "Brilliant book! It exceeded all my expectations."
+    },
+    {
+      "Review_title": "Loved It",
+      "Review_text": "I absolutely loved this book. It's a must-read!"
+    },
+    {
+      "Review_title": "Couldn't Put It Down",
+      "Review_text": "I couldn't put this book down. It was that good!"
+    },
+    {
+      "Review_title": "A True Classic",
+      "Review_text": "This book is a true classic. A timeless masterpiece."
+    },
+    {
+      "Review_title": "Perfectly Written",
+      "Review_text": "The book was perfectly written. I loved it!"
+    },
+    {
+      "Review_title": "Unforgettable",
+      "Review_text": "An unforgettable story. Highly recommend!"
+    },
+    {
+      "Review_title": "A Must-Read",
+      "Review_text": "This book is a must-read for everyone."
+    },
+    {
+      "Review_title": "Exquisite",
+      "Review_text": "The book was exquisite. Beautifully written."
+    },
+    {
+      "Review_title": "Stunning",
+      "Review_text": "Stunning book. I was captivated from the first page."
+    },
+    {
+      "Review_title": "Amazing",
+      "Review_text": "Amazing book! One of the best I've ever read."
+    },
+    {
+      "Review_title": "Engrossing",
+      "Review_text": "Engrossing story. I was hooked from the start."
+    },
+    {
+      "Review_title": "Highly Recommend",
+      "Review_text": "I highly recommend this book to everyone."
+    },
+    {
+      "Review_title": "Incredible Journey",
+      "Review_text": "The book was an incredible journey. Loved it!"
+    },
+    {
+      "Review_title": "Captivating",
+      "Review_text": "Captivating from start to finish. A must-read!"
+    },
+    {
+      "Review_title": "Perfect Story",
+      "Review_text": "The story was perfect. I loved every moment."
+    }
+  ]
+}

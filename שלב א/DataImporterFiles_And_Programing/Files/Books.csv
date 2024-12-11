@@ -1,0 +1,745 @@
+Book_id,Book_name,Publication_date,Category_id,Author_id,Language,Book_description
+3000,Introduction to Mathematics,2020-09-15,5075,1001,Spanish,This book presents the basics of algebra and is especially suitable for students at the beginning of their academic journey.
+3001,Advanced Algebra,2021-03-20,5075,1001,Japanese,An in-depth look at advanced algebraic concepts for students with prior knowledge in algebra.
+3002,Linear Algebra,2019-06-10,5004,1001,Japanese,"This book covers the fundamentals of linear algebra, including vector spaces and matrices."
+3003,Calculus I,2018-02-25,5045,1001,Russian,"An introductory guide to calculus, covering limits, derivatives, and integrals."
+3004,Discrete Mathematics,2021-07-15,5065,1001,Spanish,"This book introduces the concepts of discrete mathematics, including graph theory and combinatorics."
+3005,Probability Theory,2020-11-05,5127,1001,Korean,"A comprehensive guide to probability theory, covering probability distributions and statistical inference."
+3006,Complex Analysis,2019-04-20,5078,1001,Italian,"This book covers the fundamentals of complex analysis, including analytic functions and complex integration."
+3007,Mathematical Logic,2022-01-30,5116,1001,Italian,"An introduction to mathematical logic, including set theory and formal languages."
+3008,Organic Chemistry for Beginners,2018-05-10,5076,1002,Spanish,"This book covers fundamental concepts of organic chemistry, tailored for beginner students."
+3009,Advanced Organic Chemistry,2020-01-15,5076,1002,Korean,A deeper exploration of organic chemistry concepts for advanced students.
+3010,Laboratory Techniques in Organic Chemistry,2019-08-20,5076,1002,Russian,A practical guide to laboratory techniques in organic chemistry.
+3011,Organic Synthesis,2021-11-30,5076,1002,Hindi,This book covers the principles and methods of organic synthesis.
+3012,Spectroscopy in Organic Chemistry,2017-03-25,5076,1002,Italian,An introduction to spectroscopic techniques used in the analysis of organic compounds.
+3013,Organic Reaction Mechanisms,2018-12-12,5076,1002,Spanish,A detailed exploration of the mechanisms behind various organic reactions.
+3014,Medicinal Chemistry,2020-10-18,5125,1002,Hebrew,An overview of the principles of medicinal chemistry and drug design.
+3015,Green Chemistry,2022-05-05,5023,1002,Japanese,This book discusses the principles and applications of green chemistry in modern research.
+3016,Principles of Physics,2019-02-25,5168,1003,Hebrew,"An essential textbook covering the main principles of physics, ideal for undergraduate students."
+3017,Classical Mechanics,2020-07-15,5098,1003,Chinese,"This book delves into the principles of classical mechanics, including motion, forces, and energy."
+3018,Electromagnetism,2021-09-05,5068,1003,Korean,"A comprehensive guide to the principles of electromagnetism, covering electric fields, magnetic fields, and their interactions."
+3019,Thermodynamics,2018-11-25,5008,1003,Russian,"An introduction to thermodynamics, covering the laws of thermodynamics and their applications."
+3020,Quantum Mechanics,2017-04-10,5109,1003,German,"This book introduces the principles of quantum mechanics, including wave functions and uncertainty principles."
+3021,Statistical Mechanics,2019-06-20,5137,1003,Spanish,"An overview of statistical mechanics, covering ensembles and distribution functions."
+3022,Optics,2020-01-30,5088,1003,French,"A comprehensive guide to the principles of optics, including reflection, refraction, and diffraction."
+3023,Nuclear Physics,2021-03-15,5103,1003,Korean,"This book covers the fundamentals of nuclear physics, including nuclear reactions and decay processes."
+3024,Introduction to Economics,2021-01-12,5166,1004,English,A comprehensive guide to the basics of microeconomics for first-year economics students.
+3025,Advanced Microeconomics,2020-05-22,5166,1004,Hebrew,An advanced exploration of microeconomic theory and applications.
+3026,Macroeconomics,2019-08-30,5148,1004,Russian,"An introduction to macroeconomic principles, including national income, inflation, and unemployment."
+3027,Econometrics,2018-02-15,5002,1004,German,A detailed guide to econometric methods and their applications in economic research.
+3028,International Economics,2022-03-25,5156,1004,French,"This book covers the principles of international trade and finance, including exchange rates and trade policies."
+3029,Development Economics,2020-11-10,5021,1004,Japanese,"An introduction to the economics of development, covering poverty, inequality, and economic growth."
+3030,Public Economics,2019-05-18,5134,1004,Chinese,"This book explores the role of government in the economy, including taxation and public expenditure."
+3031,Behavioral Economics,2018-09-28,5091,1004,Korean,"An overview of behavioral economics, focusing on how psychological factors affect economic decision-making."
+3032,Fundamentals of Computer Science,2022-03-30,5010,1005,English,This book introduces fundamental programming concepts and techniques using Python.
+3033,Data Structures and Algorithms,2021-06-15,5084,1005,Hebrew,"A comprehensive guide to data structures and algorithms, including implementation examples in Python."
+3034,Database Systems,2020-10-22,5131,1005,French,"An introduction to database systems, covering SQL and NoSQL databases."
+3035,Operating Systems,2019-01-15,5092,1005,German,"This book covers the principles and design of operating systems, including process management and memory management."
+3036,Computer Networks,2021-09-30,5060,1005,Chinese,"An overview of computer networks, covering protocols, network architectures, and security."
+3037,Software Engineering,2020-05-12,5169,1005,Russian,"This book introduces the principles and practices of software engineering, including software development lifecycle and project management."
+3038,Artificial Intelligence,2022-02-20,5163,1005,French,"An introduction to artificial intelligence, covering machine learning, neural networks, and natural language processing."
+3039,Computer Security,2018-07-15,5135,1005,English,"This book covers the fundamentals of computer security, including cryptography, network security, and cybersecurity practices."
+3040,Modern Biology,2017-07-22,5138,1006,Korean,"An in-depth look at cellular biology, ideal for undergraduate biology students."
+3041,Genetics,2019-03-15,5071,1006,Spanish,"This book covers the principles of genetics, including inheritance patterns, DNA structure, and gene expression."
+3042,Evolutionary Biology,2020-08-10,5052,1006,French,"An introduction to evolutionary biology, covering the mechanisms of evolution and the history of life on Earth."
+3043,Biochemistry,2018-04-05,5112,1006,Spanish,"This book provides an overview of biochemistry, including the structure and function of biomolecules and metabolic pathways."
+3044,Microbiology,2021-12-15,5086,1006,German,"An introduction to microbiology, covering the biology of microorganisms and their roles in various environments."
+3045,Molecular Biology,2019-09-25,5082,1006,Korean,"This book covers the fundamentals of molecular biology, including gene expression, DNA replication, and molecular techniques."
+3046,Plant Biology,2020-06-30,5014,1006,German,"An exploration of plant biology, including plant physiology, structure, and development."
+3047,Human Anatomy and Physiology,2018-11-10,5011,1006,Italian,"A comprehensive guide to human anatomy and physiology, covering the structure and function of the human body."
+3048,Basics of Sociology,2020-11-05,5102,1007,Japanese,This textbook covers the fundamental theories and concepts in sociology.
+3049,Social Research Methods,2018-05-22,5154,1007,Hebrew,"An introduction to social research methods, including qualitative and quantitative approaches."
+3050,Sociology of Education,2019-08-18,5113,1007,Russian,"This book explores the sociological aspects of education, including the role of schools and educational inequality."
+3051,Sociology of Health,2021-02-12,5119,1007,German,"An overview of the sociology of health, covering topics such as health disparities and the healthcare system."
+3052,Urban Sociology,2018-09-15,5097,1007,Hindi,"This book covers the sociological study of urban areas, including urbanization, city life, and urban problems."
+3053,Sociology of the Family,2019-03-25,5173,1007,Chinese,"An exploration of the sociology of the family, including family structures, dynamics, and changes."
+3054,Political Sociology,2020-07-05,5114,1007,Hebrew,"This book examines the relationship between society and politics, including power, authority, and political institutions."
+3055,Criminology,2021-10-20,5043,1007,Italian,"An introduction to criminology, covering the causes of crime, criminal behavior, and the criminal justice system."
+3056,Introduction to Statistics,2019-08-18,5042,1008,Russian,"A beginner's guide to descriptive statistics, perfect for students new to the field."
+3057,Probability and Statistics,2020-11-05,5077,1008,Russian,"This book covers the fundamentals of probability and statistics, including probability distributions and hypothesis testing."
+3058,Statistical Methods,2018-02-28,5115,1008,Korean,"An introduction to statistical methods, including regression analysis and ANOVA."
+3059,Data Analysis,2021-03-25,5167,1008,Russian,"A comprehensive guide to data analysis, including data visualization and statistical software."
+3060,Biostatistics,2019-07-10,5053,1008,Italian,"An introduction to biostatistics, covering statistical methods used in biological and medical research."
+3061,Time Series Analysis,2020-09-15,5099,1008,Hindi,"This book covers the principles of time series analysis, including forecasting and seasonal adjustments."
+3062,Experimental Design,2021-11-30,5104,1008,Italian,"An overview of experimental design principles, including randomization, replication, and blocking."
+3063,Multivariate Analysis,2018-05-20,5162,1008,Spanish,"A comprehensive guide to multivariate analysis techniques, including factor analysis and cluster analysis."
+3064,Principles of Accounting,2019-04-15,5040,1009,English,This book introduces the principles and practices of financial accounting.
+3065,Managerial Accounting,2020-06-10,5070,1009,Spanish,"An introduction to managerial accounting, focusing on decision-making and cost management."
+3066,Advanced Financial Accounting,2021-08-22,5040,1009,Korean,"This book covers advanced topics in financial accounting, including consolidation and foreign currency transactions."
+3067,Auditing,2018-03-25,5085,1009,Korean,"An introduction to auditing principles and practices, including audit planning and risk assessment."
+3068,Taxation,2019-11-10,5034,1009,Japanese,"This book covers the principles of taxation, including tax planning and compliance."
+3069,Cost Accounting,2020-01-20,5118,1009,Hindi,"An introduction to cost accounting, covering cost behavior, cost allocation, and budgeting."
+3070,Accounting Information Systems,2021-04-15,5050,1009,Hebrew,This book covers the design and implementation of accounting information systems.
+3071,Ethics in Accounting,2022-02-05,5046,1009,Russian,"An overview of ethical issues in accounting, including professional conduct and corporate governance."
+3072,Fundamentals of Environmental Science,2021-06-15,5015,1010,Hebrew,"An introduction to the principles of environmental science, covering ecosystems, biodiversity, and pollution."
+3073,Climate Change and Its Impacts,2022-01-10,5171,1010,Japanese,"This book explores the science behind climate change and its environmental, social, and economic impacts."
+3074,Conservation Biology,2019-08-22,5139,1010,Hebrew,"A comprehensive guide to conservation biology, including species preservation and habitat management."
+3075,Environmental Policy,2020-11-05,5059,1010,Spanish,"This book examines environmental policies and regulations at local, national, and global levels."
+3076,Introduction to Philosophy,2018-09-15,5133,1011,German,An overview of major philosophical concepts and thinkers from ancient to modern times.
+3077,Ethics and Morality,2020-03-25,5136,1011,Spanish,"This book explores the foundations of ethics and moral philosophy, including key theories and debates."
+3078,Philosophy of Mind,2019-06-10,5073,1011,Korean,"An introduction to the philosophy of mind, covering topics such as consciousness, identity, and cognition."
+3079,Political Philosophy,2021-11-15,5035,1011,Spanish,This book examines the philosophical foundations of political systems and ideologies.
+3080,Aesthetics,2022-04-20,5057,1011,Chinese,"An exploration of the philosophy of art and beauty, including theories of aesthetics and artistic expression."
+3081,Principles of Marketing,2019-01-12,5032,1012,Spanish,"An introduction to the principles and strategies of marketing, including market research and consumer behavior."
+3082,Digital Marketing,2020-08-18,5157,1012,Russian,"This book covers the fundamentals of digital marketing, including SEO, social media, and online advertising."
+3083,Marketing Research,2021-05-10,5111,1012,German,"An overview of marketing research methods and techniques, including data collection and analysis."
+3084,Consumer Behavior,2018-11-30,5152,1012,Chinese,This book examines the psychological and sociological factors that influence consumer behavior.
+3085,Brand Management,2022-03-25,5029,1012,English,"An in-depth look at brand management strategies, including brand equity and positioning."
+3086,Introduction to Psychology,2019-07-10,5020,1013,English,"An overview of the field of psychology, covering major theories and concepts."
+3087,Developmental Psychology,2020-02-15,5132,1013,Hebrew,"This book explores human development across the lifespan, including cognitive and social development."
+3088,Clinical Psychology,2021-09-22,5000,1013,French,"An introduction to clinical psychology, covering assessment, diagnosis, and treatment of psychological disorders."
+3089,Social Psychology,2018-12-15,5149,1013,Chinese,This book examines the influence of social interactions and group dynamics on individual behavior.
+3090,Cognitive Psychology,2022-06-05,5036,1013,German,"An exploration of cognitive processes, including perception, memory, and decision-making."
+3091,Introduction to Political Science,2019-03-25,5006,1014,Spanish,"An introduction to the field of political science, covering key concepts and theories."
+3092,Comparative Politics,2020-10-12,5143,1014,Chinese,"This book examines the political systems of different countries, comparing their structures and processes."
+3093,International Relations,2021-07-18,5030,1014,Korean,"An overview of international relations theories and issues, including diplomacy, conflict, and globalization."
+3094,Political Theory,2018-05-22,5047,1014,Korean,This book explores major political theories and ideologies from ancient to modern times.
+3095,Public Policy,2022-01-10,5100,1014,Italian,"An introduction to public policy analysis, covering policy formulation, implementation, and evaluation."
+3096,Introduction to Law,2018-08-30,5095,1015,Chinese,"An overview of the legal system, including the structure of courts, legal reasoning, and fundamental principles of law."
+3097,Constitutional Law,2020-03-15,5140,1015,Korean,"This book covers the principles of constitutional law, including judicial review, civil rights, and separation of powers."
+3098,Criminal Law,2019-11-25,5158,1015,Spanish,"An introduction to criminal law, covering the elements of crimes, defenses, and criminal procedures."
+3099,Contract Law,2021-05-05,5016,1015,Hebrew,"This book examines the principles of contract law, including formation, performance, and breach of contracts."
+3100,Property Law,2022-07-18,5028,1015,Chinese,"An introduction to property law, covering the acquisition, ownership, and transfer of property rights."
+3101,Introduction to Linguistics,2019-04-12,5022,1016,German,"An overview of the field of linguistics, covering phonetics, syntax, semantics, and language acquisition."
+3102,Sociolinguistics,2020-09-20,5005,1016,English,"This book explores the relationship between language and society, including language variation and language policy."
+3103,Historical Linguistics,2021-12-05,5062,1016,Hebrew,"An introduction to historical linguistics, covering language change, reconstruction, and the history of languages."
+3104,Psycholinguistics,2018-06-30,5003,1016,Hebrew,"This book examines the psychological processes underlying language acquisition, comprehension, and production."
+3105,Language and Culture,2022-03-10,5018,1016,Hebrew,"An exploration of the interplay between language and culture, including linguistic relativity and cultural narratives."
+3106,Introduction to Anthropology,2019-05-25,5061,1017,Italian,"An overview of the field of anthropology, covering cultural, social, and biological aspects of human societies."
+3107,Cultural Anthropology,2020-11-18,5063,1017,Russian,"This book explores cultural anthropology, including kinship, religion, and economic systems in different societies."
+3108,Biological Anthropology,2021-07-22,5044,1017,French,"An introduction to biological anthropology, covering human evolution, genetics, and primatology."
+3109,Archaeology,2018-10-12,5174,1017,French,"This book covers the principles and methods of archaeology, including excavation techniques and artifact analysis."
+3110,Linguistic Anthropology,2022-02-28,5081,1017,Hindi,"An exploration of linguistic anthropology, including language use, language change, and sociolinguistics."
+3111,Introduction to Art History,2019-03-15,5041,1018,German,"An overview of art history, covering major periods, movements, and artists from ancient to modern times."
+3112,Renaissance Art,2020-07-10,5087,1018,Hebrew,"This book explores the art of the Renaissance period, including key artists, works, and cultural influences."
+3113,Modern Art,2021-05-25,5126,1018,French,"An introduction to modern art, covering movements such as Impressionism, Cubism, and Surrealism."
+3114,Art Criticism,2018-09-30,5147,1018,Spanish,"This book examines the principles and methods of art criticism, including analysis and interpretation of artworks."
+3115,Art and Society,2022-01-22,5105,1018,Spanish,"An exploration of the relationship between art and society, including the role of art in social and political contexts."
+3116,Introduction to Astronomy,2019-02-18,5025,1019,Italian,"An overview of the field of astronomy, covering celestial objects, phenomena, and the universe's structure."
+3117,Astrophysics,2020-10-05,5026,1019,German,"This book explores the principles of astrophysics, including the physics of stars, galaxies, and cosmology."
+3118,Planetary Science,2021-06-12,5165,1019,German,"An introduction to planetary science, covering the formation and evolution of planets and moons."
+3119,Observational Astronomy,2018-11-05,5012,1019,Hindi,"This book covers the methods and techniques used in observational astronomy, including telescopes and data analysis."
+3120,Exoplanets,2022-02-20,5130,1019,Korean,"An exploration of exoplanets, including their detection, characteristics, and potential for life."
+3121,Introduction to History,2019-01-22,5107,1020,Korean,An overview of major historical events and periods from ancient to modern times.
+3122,Ancient Civilizations,2020-09-15,5120,1020,Spanish,"This book explores ancient civilizations, including Mesopotamia, Egypt, Greece, and Rome."
+3123,Medieval Europe,2021-04-30,5007,1020,Japanese,"An introduction to medieval European history, covering the Middle Ages from the fall of Rome to the Renaissance."
+3124,Modern World History,2018-08-20,5037,1020,German,"This book covers major events in modern world history, including the Industrial Revolution, World Wars, and globalization."
+3125,History of the Middle East,2022-01-12,5027,1020,Hindi,"An exploration of the history of the Middle East, from ancient times to the present."
+3126,Introduction to Sociology,2019-06-18,5048,1021,English,"An overview of the field of sociology, covering key concepts, theories, and research methods."
+3127,Social Inequality,2020-11-25,5151,1021,Russian,"This book explores social inequality, including issues of race, class, and gender."
+3128,Urban Sociology,2021-09-05,5097,1021,Hebrew,"An introduction to urban sociology, covering the development and structure of cities and urban life."
+3129,Sociology of Religion,2018-10-30,5033,1021,Hebrew,"This book examines the relationship between religion and society, including the role of religion in social change."
+3130,Sociology of Education,2022-02-15,5113,1021,Japanese,"An exploration of the sociological aspects of education, including educational inequality and policy."
+3131,Introduction to Economics,2019-03-20,5089,1022,Spanish,"An overview of economic principles and concepts, covering microeconomics and macroeconomics."
+3132,Microeconomics,2020-07-15,5166,1022,Korean,"This book explores the principles of microeconomics, including supply and demand, market structures, and consumer behavior."
+3133,Macroeconomics,2021-11-30,5148,1022,French,"An introduction to macroeconomics, covering national income, inflation, unemployment, and fiscal policy."
+3134,International Trade,2018-06-05,5074,1022,French,"This book examines the principles and theories of international trade, including trade policies and agreements."
+3135,Development Economics,2022-03-12,5021,1022,Hindi,"An exploration of economic development, covering topics such as poverty, inequality, and economic growth."
+3136,Introduction to Chemistry,2019-04-05,5161,1023,Hindi,"An overview of the field of chemistry, covering atomic structure, chemical bonding, and reactions."
+3137,Analytical Chemistry,2020-10-20,5093,1023,Italian,"This book explores the principles and techniques of analytical chemistry, including spectroscopy and chromatography."
+3138,Physical Chemistry,2021-06-25,5058,1023,Hebrew,"An introduction to physical chemistry, covering thermodynamics, kinetics, and quantum chemistry."
+3139,Inorganic Chemistry,2018-11-15,5110,1023,Italian,"This book examines the principles of inorganic chemistry, including the chemistry of metals and nonmetals."
+3140,Biochemistry,2022-02-28,5124,1023,English,"An overview of biochemistry, covering the structure and function of biomolecules and metabolic pathways."
+3141,Introduction to Education,2019-08-20,5129,1024,Russian,"An overview of the field of education, covering educational theories, practices, and policies."
+3142,Educational Psychology,2020-03-10,5013,1024,German,"This book explores the psychological principles of learning and teaching, including motivation and cognitive development."
+3143,Curriculum Development,2021-05-22,5083,1024,French,"An introduction to curriculum development, covering the design, implementation, and evaluation of educational programs."
+3144,Educational Leadership,2018-11-25,5155,1024,Japanese,"This book examines the principles and practices of educational leadership, including school administration and policy."
+3145,Inclusive Education,2022-01-30,5123,1024,Chinese,"An exploration of inclusive education, covering strategies for supporting diverse learners in the classroom."
+3146,Introduction to Sociology,2021-02-20,5048,1025,English,An introductory book that covers the basic concepts and theories in sociology.
+3147,Social Movements,2022-06-18,5064,1025,English,A detailed analysis of various social movements and their impacts on society.
+3148,Basic Economics,2019-03-15,5089,1026,English,A comprehensive guide to the basic principles and concepts of economics.
+3149,Economic Policy,2021-11-05,5153,1026,Spanish,This book examines various economic policies and their effects on the economy.
+3150,Introduction to Psychology,2020-09-15,5020,1027,English,An overview of the major concepts and theories in psychology.
+3151,Abnormal Psychology,2022-03-30,5049,1027,Hindi,A comprehensive look at psychological disorders and their treatments.
+3152,Introduction to Political Science,2018-07-12,5006,1028,Korean,An introductory text covering the basic concepts and theories in political science.
+3153,Government and Politics,2020-01-20,5001,1028,Korean,This book explores the structures and functions of government and political institutions.
+3154,Principles of Marketing,2019-05-15,5032,1029,German,An overview of the fundamental principles and strategies in marketing.
+3155,Digital Marketing,2021-08-22,5157,1029,Hebrew,"This book covers the basics of digital marketing, including SEO, social media, and online advertising."
+3156,Introduction to Biology,2018-11-10,5038,1030,Korean,An introductory text covering the basic concepts and theories in biology.
+3157,Genetics,2020-05-05,5071,1030,English,A detailed exploration of genetic principles and their applications.
+3158,Introduction to Chemistry,2019-07-20,5161,1031,Russian,An overview of the fundamental principles and concepts in chemistry.
+3159,Organic Chemistry,2021-02-28,5076,1031,Chinese,A comprehensive guide to the principles and applications of organic chemistry.
+3160,Introduction to Environmental Science,2020-09-15,5015,1032,German,"An introductory book on environmental science, covering ecosystems, biodiversity, and pollution."
+3161,Climate Change,2022-03-10,5171,1032,German,This book explores the science behind climate change and its global impact.
+3162,Introduction to Computer Science,2019-04-05,5141,1033,Spanish,An introductory text covering the fundamental concepts in computer science.
+3163,Algorithms and Data Structures,2021-01-20,5084,1033,English,A comprehensive guide to algorithms and data structures.
+3164,Introduction to Physics,2018-06-30,5168,1034,English,An overview of the basic principles and concepts in physics.
+3165,Quantum Mechanics,2020-11-05,5109,1034,Spanish,A detailed exploration of the principles of quantum mechanics.
+3166,Introduction to Law,2019-03-25,5095,1035,Italian,An introductory text covering the fundamental principles and concepts in law.
+3167,Contract Law,2021-07-18,5016,1035,Hebrew,A comprehensive guide to the principles and applications of contract law.
+3168,Introduction to Art History,2018-08-10,5041,1036,German,"An overview of major periods, movements, and artists in art history."
+3169,Modern Art,2020-12-15,5126,1036,Russian,A detailed exploration of the major movements and artists in modern art.
+3170,Introduction to Philosophy,2019-05-20,5133,1037,French,An overview of major philosophical concepts and thinkers from ancient to modern times.
+3171,Ethics and Morality,2021-09-30,5136,1037,Chinese,This book explores the foundations of ethics and moral philosophy.
+3172,Introduction to Anthropology,2020-02-15,5061,1038,Chinese,"An overview of the field of anthropology, covering cultural, social, and biological aspects of human societies."
+3173,Cultural Anthropology,2022-07-25,5063,1038,Russian,"A detailed exploration of cultural anthropology, including kinship, religion, and economic systems."
+3174,Introduction to Linguistics,2018-11-20,5022,1039,English,An introductory text covering the fundamental concepts and theories in linguistics.
+3175,Sociolinguistics,2021-06-10,5005,1039,Italian,This book explores the relationship between language and society.
+3176,Introduction to Astronomy,2019-01-30,5025,1040,German,"An overview of the field of astronomy, covering celestial objects and phenomena."
+3177,Astrophysics,2021-12-20,5026,1040,French,A detailed exploration of the principles of astrophysics.
+3178,Introduction to History,2019-04-25,5107,1041,German,An overview of major historical events and periods from ancient to modern times.
+3179,Modern World History,2021-08-30,5037,1041,Chinese,This book covers major events in modern world history.
+3180,Introduction to Business,2018-06-20,5090,1042,German,An introductory text covering the fundamental principles and concepts in business.
+3181,Business Ethics,2020-12-10,5024,1042,Spanish,A comprehensive guide to ethical practices in the business world.
+3182,Introduction to Education,2019-07-12,5129,1043,Hebrew,"An overview of the field of education, covering theories, practices, and policies."
+3183,Educational Psychology,2021-02-28,5013,1043,Russian,This book explores the psychological principles of learning and teaching.
+3184,Introduction to Engineering,2018-09-05,5094,1044,Hindi,An introductory text covering the fundamental principles and concepts in engineering.
+3185,Mechanical Engineering,2020-03-25,5051,1044,Hindi,A detailed exploration of the principles and applications of mechanical engineering.
+3186,Introduction to Environmental Science,2019-05-15,5015,1045,Spanish,"An introductory text on environmental science, covering ecosystems, biodiversity, and pollution."
+3187,Sustainable Development,2021-08-20,5072,1045,German,This book explores the principles and practices of sustainable development.
+3188,Introduction to Philosophy,2018-11-25,5133,1046,Hindi,An overview of major philosophical concepts and thinkers from ancient to modern times.
+3189,Metaphysics,2020-07-10,5108,1046,French,A comprehensive guide to the principles and debates in metaphysics.
+3190,Introduction to Political Science,2019-03-30,5006,1047,Chinese,An introductory text covering the basic concepts and theories in political science.
+3191,International Relations,2021-11-25,5030,1047,German,This book explores the major theories and issues in international relations.
+3192,Introduction to Sociology,2018-05-22,5048,1048,French,An introductory book that covers the basic concepts and theories in sociology.
+3193,Urban Sociology,2020-09-10,5069,1048,Hindi,This book examines the development and structure of cities and urban life.
+3194,Introduction to Psychology,2019-02-20,5020,1049,Russian,An overview of the major concepts and theories in psychology.
+3195,Developmental Psychology,2021-06-15,5132,1049,Hebrew,This book explores human development across the lifespan.
+3196,Introduction to Economics,2018-11-05,5089,1050,Japanese,An overview of economic principles and concepts.
+3197,Microeconomics,2020-08-20,5166,1050,Italian,This book explores the principles of microeconomics.
+3198,Introduction to History,2019-05-30,5107,1051,English,An overview of major historical events and periods.
+3199,Medieval History,2021-09-05,5007,1051,Spanish,This book explores the history of the medieval period.
+3200,Introduction to Chemistry,2018-10-10,5161,1052,Chinese,An overview of the basic principles and concepts in chemistry.
+3201,Physical Chemistry,2020-12-15,5058,1052,Russian,A detailed exploration of the principles of physical chemistry.
+3202,Introduction to Business,2019-03-25,5090,1053,Hebrew,An introductory text covering the fundamental principles and concepts in business.
+3203,Business Management,2021-07-05,5079,1053,Japanese,This book explores the principles and practices of business management.
+3204,Introduction to Engineering,2018-06-15,5094,1054,Italian,An introductory text covering the fundamental principles and concepts in engineering.
+3205,Electrical Engineering,2020-11-22,5150,1054,Hebrew,A detailed exploration of the principles and applications of electrical engineering.
+3206,Introduction to Environmental Science,2019-02-18,5015,1055,Hebrew,"An introductory book on environmental science, covering ecosystems, biodiversity, and pollution."
+3207,Environmental Policy,2021-06-25,5059,1055,Japanese,This book examines environmental policies and regulations.
+3208,Introduction to Art History,2018-09-12,5041,1056,French,"An overview of major periods, movements, and artists in art history."
+3209,Contemporary Art,2020-12-20,5128,1056,Spanish,A detailed exploration of the major movements and artists in contemporary art.
+3210,Introduction to Philosophy,2019-04-15,5133,1057,Spanish,An overview of major philosophical concepts and thinkers from ancient to modern times.
+3211,Philosophy of Science,2021-10-05,5121,1057,Italian,This book explores the philosophical foundations of science.
+3212,Introduction to Anthropology,2019-06-20,5061,1058,German,"An overview of the field of anthropology, covering cultural, social, and biological aspects of human societies."
+3213,Archaeology,2021-09-30,5174,1058,Hebrew,This book covers the principles and methods of archaeology.
+3214,Introduction to Linguistics,2018-11-22,5022,1059,Russian,An introductory text covering the fundamental concepts and theories in linguistics.
+3215,Psycholinguistics,2021-07-18,5003,1059,Italian,This book examines the psychological processes underlying language.
+3216,Introduction to Astronomy,2019-04-10,5025,1060,French,"An overview of the field of astronomy, covering celestial objects and phenomena."
+3217,Observational Astronomy,2021-12-22,5012,1060,Spanish,This book covers the methods and techniques used in observational astronomy.
+3218,Introduction to History,2019-01-12,5107,1061,Japanese,An overview of major historical events and periods.
+3219,History of the Middle East,2021-06-25,5027,1061,Hindi,This book explores the history of the Middle East.
+3220,Introduction to Business,2018-03-25,5090,1062,French,An introductory text covering the fundamental principles and concepts in business.
+3221,Marketing Principles,2020-09-10,5032,1062,Russian,This book explores the fundamental principles and strategies in marketing.
+3222,Introduction to Education,2019-05-05,5129,1063,Hebrew,"An overview of the field of education, covering theories, practices, and policies."
+3223,Curriculum Design,2021-08-20,5083,1063,Spanish,This book explores the principles and practices of curriculum design.
+3224,Introduction to Engineering,2018-04-15,5094,1064,Italian,An introductory text covering the fundamental principles and concepts in engineering.
+3225,Civil Engineering,2020-10-05,5117,1064,German,A detailed exploration of the principles and applications of civil engineering.
+3226,Introduction to Environmental Science,2019-07-18,5015,1065,Italian,"An introductory book on environmental science, covering ecosystems, biodiversity, and pollution."
+3227,Environmental Chemistry,2021-12-15,5145,1065,Hindi,This book explores the chemical principles and processes in the environment.
+3228,Introduction to Philosophy,2018-09-25,5133,1066,Italian,An overview of major philosophical concepts and thinkers from ancient to modern times.
+3229,Philosophy of Mind,2020-12-10,5073,1066,Spanish,A comprehensive guide to the principles and debates in the philosophy of mind.
+3230,Introduction to Sociology,2019-03-10,5048,1067,Japanese,An introductory book that covers the basic concepts and theories in sociology.
+3231,Sociology of Health,2021-09-22,5119,1067,Japanese,This book explores the sociological aspects of health and illness.
+3232,Introduction to Psychology,2018-05-30,5020,1068,French,An overview of the major concepts and theories in psychology.
+3233,Cognitive Psychology,2020-11-18,5036,1068,Russian,This book explores the cognitive processes underlying human thought and behavior.
+3234,Introduction to Economics,2019-06-25,5089,1069,Japanese,An overview of economic principles and concepts.
+3235,Macroeconomics,2021-12-30,5148,1069,Spanish,This book explores the principles of macroeconomics.
+3236,Introduction to History,2018-04-12,5107,1070,English,An overview of major historical events and periods.
+3237,Modern European History,2020-08-25,5037,1070,Italian,This book explores the history of modern Europe.
+3238,Introduction to Chemistry,2018-11-18,5161,1071,Spanish,An overview of the basic principles and concepts in chemistry.
+3239,Analytical Chemistry,2021-03-15,5093,1071,Italian,This book explores the principles and techniques of analytical chemistry.
+3240,Introduction to Business,2019-02-25,5090,1072,Italian,An introductory text covering the fundamental principles and concepts in business.
+3241,Entrepreneurship,2021-06-30,5080,1072,English,This book explores the principles and practices of entrepreneurship.
+3242,Introduction to Engineering,2018-07-25,5094,1073,Korean,An introductory text covering the fundamental principles and concepts in engineering.
+3243,Mechanical Engineering,2020-11-15,5051,1073,Italian,A detailed exploration of the principles and applications of mechanical engineering.
+3244,Introduction to Environmental Science,2019-05-12,5015,1074,Russian,"An introductory book on environmental science, covering ecosystems, biodiversity, and pollution."
+3245,Climate Change and Sustainability,2021-09-28,5171,1074,Korean,This book explores the relationship between climate change and sustainable practices.
+3246,Introduction to Philosophy,2018-10-10,5133,1075,Hindi,An overview of major philosophical concepts and thinkers from ancient to modern times.
+3247,Ethics,2021-02-15,5136,1075,English,A comprehensive guide to the principles and theories of ethics.
+3248,Introduction to Political Science,2019-01-18,5006,1076,Hebrew,An introductory text covering the basic concepts and theories in political science.
+3249,Comparative Politics,2021-11-22,5143,1076,Hebrew,This book explores the political systems of different countries.
+3250,Introduction to Sociology,2019-04-22,5048,1077,Spanish,An introductory book that covers the basic concepts and theories in sociology.
+3251,Sociology of Education,2021-07-15,5113,1077,Spanish,This book explores the sociological aspects of education.
+3252,Introduction to Psychology,2018-02-10,5020,1078,Hindi,An overview of the major concepts and theories in psychology.
+3253,Abnormal Psychology,2020-08-05,5049,1078,Hindi,A comprehensive look at psychological disorders and their treatments.
+3254,Introduction to Economics,2019-05-28,5089,1079,Hindi,An overview of economic principles and concepts.
+3255,International Economics,2021-09-10,5156,1079,French,This book explores the principles and theories of international economics.
+3256,Introduction to History,2018-07-05,5107,1080,English,An overview of major historical events and periods.
+3257,American History,2020-10-25,5066,1080,German,This book explores the history of the United States.
+3258,Introduction to Chemistry,2018-09-18,5161,1081,Hindi,An overview of the basic principles and concepts in chemistry.
+3259,Inorganic Chemistry,2021-02-05,5110,1081,Russian,This book explores the principles and applications of inorganic chemistry.
+3260,Introduction to Business,2019-01-25,5090,1082,Japanese,An introductory text covering the fundamental principles and concepts in business.
+3261,Business Strategy,2021-08-15,5031,1082,German,This book explores the principles and practices of business strategy.
+3262,Introduction to Engineering,2018-07-15,5094,1083,Hindi,An introductory text covering the fundamental principles and concepts in engineering.
+3263,Software Engineering,2020-09-22,5142,1083,Japanese,A detailed exploration of the principles and practices of software engineering.
+3264,Introduction to Environmental Science,2019-02-12,5015,1084,French,"An introductory book on environmental science, covering ecosystems, biodiversity, and pollution."
+3265,Environmental Sustainability,2021-11-18,5072,1084,French,This book explores the principles and practices of environmental sustainability.
+3266,Introduction to Art History,2018-10-25,5041,1085,English,"An overview of major periods, movements, and artists in art history."
+3267,Art and Society,2021-03-05,5105,1085,Hebrew,This book explores the relationship between art and society.
+3268,Learning Python,2019-03-15,5159,1086,Italian,"An introductory book for learning Python programming, covering basics to advanced topics."
+3269,Advanced Python Techniques,2021-07-20,5159,1086,Chinese,"This book covers advanced techniques in Python programming, including data structures and algorithms."
+3270,Python for Data Science,2020-11-10,5159,1086,English,A comprehensive guide to using Python for data science applications.
+3271,Java for Beginners,2018-09-25,5096,1087,English,"An introductory book on Java programming, ideal for beginners."
+3272,Java Design Patterns,2020-03-30,5096,1087,Italian,This book explores common design patterns in Java and how to implement them.
+3273,Java Concurrency in Practice,2021-11-22,5096,1087,Hebrew,"A detailed guide to concurrency in Java, covering threads, synchronization, and parallelism."
+3274,Introduction to C++,2019-02-18,5019,1088,Italian,"An introductory guide to C++ programming, covering basic to intermediate concepts."
+3275,Advanced C++ Programming,2020-10-15,5019,1088,Korean,"This book delves into advanced topics in C++ programming, including templates and STL."
+3276,C++ for Game Development,2021-06-30,5019,1088,Chinese,"A comprehensive guide to using C++ in game development, covering graphics and physics engines."
+3277,JavaScript Basics,2018-05-22,5160,1089,Hindi,"An introductory book on JavaScript programming, ideal for web developers."
+3278,Advanced JavaScript,2020-09-12,5160,1089,Japanese,"This book covers advanced JavaScript concepts, including ES6 features and asynchronous programming."
+3279,JavaScript for Web Development,2021-12-05,5160,1089,Japanese,A comprehensive guide to using JavaScript for modern web development.
+3280,Introduction to Swift,2019-06-10,5055,1090,Japanese,"An introductory guide to Swift programming, ideal for iOS developers."
+3281,Advanced Swift Programming,2020-11-22,5055,1090,French,This book covers advanced Swift programming techniques and best practices.
+3282,Beginning Ruby,2018-07-18,5009,1091,Spanish,"An introductory book on Ruby programming, perfect for beginners."
+3283,Ruby on Rails,2020-03-05,5009,1091,Hindi,A comprehensive guide to building web applications using Ruby on Rails.
+3284,Advanced Ruby Programming,2021-08-25,5009,1091,Hebrew,This book covers advanced Ruby programming concepts and techniques.
+3285,Introduction to PHP,2019-05-30,5146,1092,Hebrew,"An introductory guide to PHP programming, ideal for web developers."
+3286,Advanced PHP Programming,2020-12-15,5146,1092,Korean,This book covers advanced PHP programming techniques and best practices.
+3287,Kotlin for Android Developers,2018-11-22,5056,1093,Spanish,A comprehensive guide to using Kotlin for Android app development.
+3288,Advanced Kotlin Programming,2020-08-05,5056,1093,Hindi,This book covers advanced Kotlin programming concepts and techniques.
+3289,Kotlin for Server-Side Development,2021-11-10,5056,1093,Korean,"A guide to using Kotlin for server-side development, including web and API development."
+3290,C# for Beginners,2018-09-30,5172,1094,German,"An introductory guide to C# programming, perfect for beginners."
+3291,Advanced C# Programming,2020-04-15,5172,1094,French,This book covers advanced C# programming techniques and best practices.
+3292,C# for Web Development,2021-09-25,5172,1094,French,"A guide to using C# for web development, covering ASP.NET and MVC frameworks."
+3293,Go Programming Basics,2019-02-25,5054,1095,English,"An introductory guide to Go programming, covering basic to intermediate concepts."
+3294,Advanced Go Programming,2020-09-12,5054,1095,Spanish,This book covers advanced Go programming techniques and best practices.
+3295,Go for Web Development,2021-11-30,5054,1095,Russian,"A guide to using Go for web development, including web frameworks and RESTful APIs."
+3296,Introduction to R,2018-08-15,5144,1096,Russian,"An introductory guide to R programming, ideal for data analysis and statistics."
+3297,Advanced R Programming,2020-05-10,5144,1096,French,This book covers advanced R programming techniques and best practices.
+3298,R for Data Science,2021-07-22,5144,1096,German,A comprehensive guide to using R for data science applications.
+3299,Introduction to Scala,2019-06-25,5067,1097,Hebrew,"An introductory guide to Scala programming, covering basic to intermediate concepts."
+3300,Advanced Scala Programming,2020-10-05,5067,1097,Hindi,This book covers advanced Scala programming techniques and best practices.
+3301,Dart Programming for Beginners,2019-04-10,5122,1098,German,"An introductory guide to Dart programming, ideal for Flutter developers."
+3302,Advanced Dart Programming,2020-11-30,5122,1098,Chinese,This book covers advanced Dart programming techniques and best practices.
+3303,Dart and Flutter for Mobile Development,2021-08-25,5122,1098,Spanish,A comprehensive guide to using Dart and Flutter for mobile app development.
+3304,Introduction to Rust,2019-07-20,5164,1099,German,"An introductory guide to Rust programming, covering basic to intermediate concepts."
+3305,Advanced Rust Programming,2020-12-05,5164,1099,Chinese,This book covers advanced Rust programming techniques and best practices.
+3306,Rust for Systems Programming,2021-09-12,5164,1099,Spanish,"A guide to using Rust for systems programming, covering performance and safety."
+3307,Introduction to TypeScript,2018-10-25,5101,1100,Hindi,"An introductory guide to TypeScript programming, ideal for JavaScript developers."
+3308,Advanced TypeScript Programming,2020-03-22,5101,1100,Spanish,This book covers advanced TypeScript programming techniques and best practices.
+3309,TypeScript for Web Development,2021-07-30,5101,1100,German,A comprehensive guide to using TypeScript for modern web development.
+3310,Perl Programming Basics,2019-01-15,5106,1101,Chinese,"An introductory guide to Perl programming, covering basic to intermediate concepts."
+3311,Advanced Perl Programming,2020-10-05,5106,1101,Russian,This book covers advanced Perl programming techniques and best practices.
+3312,Perl for System Administration,2021-08-22,5106,1101,German,A guide to using Perl for system administration tasks.
+3313,Introduction to Shell Scripting,2018-11-10,5170,1102,Italian,"An introductory guide to shell scripting, covering basic to intermediate concepts."
+3314,Advanced Shell Scripting,2020-06-22,5170,1102,German,This book covers advanced shell scripting techniques and best practices.
+3315,Introduction to SQL,2019-03-12,5039,1103,Korean,"An introductory guide to SQL programming, covering basic to intermediate concepts."
+3316,Advanced SQL Programming,2020-10-18,5039,1103,Korean,This book covers advanced SQL programming techniques and best practices.
+3317,Introduction to HTML and CSS,2018-08-25,5017,1104,Hindi,"An introductory guide to HTML and CSS, ideal for web developers."
+3318,Advanced HTML and CSS,2020-04-15,5017,1104,English,This book covers advanced HTML and CSS techniques and best practices.
+3319,Responsive Web Design with HTML and CSS,2021-11-30,5017,1104,English,A comprehensive guide to creating responsive web designs using HTML and CSS.
+3320,Introduction to SQL,2018-06-15,5039,1105,Russian,"An introductory guide to SQL programming, covering basic to intermediate concepts."
+3321,Advanced SQL Queries,2020-09-25,5039,1105,Hindi,This book covers advanced SQL querying techniques and best practices.
+3322,Introduction to Python,2019-04-20,5159,1106,Hebrew,"An introductory guide to Python programming, covering basic to intermediate concepts."
+3323,Data Analysis with Python,2020-11-10,5159,1106,Korean,This book covers data analysis techniques using Python.
+3324,JavaScript for Beginners,2018-08-30,5160,1107,Korean,"An introductory guide to JavaScript programming, ideal for web developers."
+3325,JavaScript for Web Development,2020-05-20,5160,1107,Korean,This book covers JavaScript techniques and best practices for modern web development.
+3326,Java Programming Basics,2019-03-22,5096,1108,Spanish,"An introductory guide to Java programming, ideal for beginners."
+3327,Advanced Java Programming,2020-10-30,5096,1108,Spanish,This book covers advanced Java programming techniques and best practices.
+3328,Java for Enterprise Development,2021-12-15,5096,1108,Italian,A comprehensive guide to using Java for enterprise-level application development.
+3329,Introduction to C++,2018-11-25,5019,1109,French,"An introductory guide to C++ programming, covering basic to intermediate concepts."
+3330,C++ for Game Development,2020-07-05,5019,1109,German,This book covers C++ programming techniques for game development.
+3331,Python Programming Basics,2019-02-12,5159,1110,Russian,"An introductory guide to Python programming, covering basic to intermediate concepts."
+3332,Python for Data Analysis,2020-10-22,5159,1110,Hebrew,This book covers data analysis techniques using Python.
+3333,JavaScript Basics,2018-09-05,5160,1111,Spanish,"An introductory guide to JavaScript programming, ideal for web developers."
+3334,JavaScript for Modern Web Development,2020-06-12,5160,1111,Korean,This book covers JavaScript techniques and best practices for modern web development.
+3335,Java Basics,2019-04-22,5096,1112,German,"An introductory guide to Java programming, ideal for beginners."
+3336,Advanced Java Programming,2020-12-20,5096,1112,Russian,This book covers advanced Java programming techniques and best practices.
+3337,Introduction to Swift,2018-10-12,5055,1113,Korean,"An introductory guide to Swift programming, ideal for iOS developers."
+3338,Swift for Advanced Developers,2020-07-25,5055,1113,Chinese,This book covers advanced Swift programming techniques and best practices.
+3339,Swift for App Development,2021-12-05,5055,1113,Italian,A comprehensive guide to using Swift for iOS app development.
+3340,Introduction to Ruby,2019-01-18,5009,1114,Japanese,"An introductory guide to Ruby programming, ideal for beginners."
+3341,Ruby for Web Development,2020-09-22,5009,1114,German,This book covers Ruby programming techniques for web development using Ruby on Rails.
+3342,Introduction to PHP,2018-08-30,5146,1115,Hebrew,"An introductory guide to PHP programming, ideal for web developers."
+3343,Advanced PHP Programming,2020-11-25,5146,1115,Korean,This book covers advanced PHP programming techniques and best practices.
+3344,Kotlin Programming Basics,2019-04-18,5056,1116,Korean,"An introductory guide to Kotlin programming, ideal for Android developers."
+3345,Advanced Kotlin Programming,2020-12-15,5056,1116,Japanese,This book covers advanced Kotlin programming techniques and best practices.
+3346,C# Programming Basics,2019-02-10,5172,1117,English,"An introductory guide to C# programming, covering basic to intermediate concepts."
+3347,Advanced C# Programming,2020-10-20,5172,1117,Hebrew,This book covers advanced C# programming techniques and best practices.
+3348,Introduction to Go,2019-03-30,5054,1118,Chinese,"An introductory guide to Go programming, covering basic to intermediate concepts."
+3349,Advanced Go Programming,2020-11-12,5054,1118,Hindi,This book covers advanced Go programming techniques and best practices.
+3350,R Programming Basics,2018-09-20,5144,1119,Spanish,"An introductory guide to R programming, ideal for data analysis and statistics."
+3351,Advanced R Programming,2020-05-15,5144,1119,English,This book covers advanced R programming techniques and best practices.
+3352,Introduction to Scala,2019-04-12,5067,1120,German,"An introductory guide to Scala programming, covering basic to intermediate concepts."
+3353,Advanced Scala Programming,2020-11-05,5067,1120,Spanish,This book covers advanced Scala programming techniques and best practices.
+3354,Introduction to Dart,2019-01-15,5122,1121,Italian,"An introductory guide to Dart programming, ideal for Flutter developers."
+3355,Advanced Dart Programming,2020-10-25,5122,1121,English,This book covers advanced Dart programming techniques and best practices.
+3356,Introduction to Rust,2019-03-05,5164,1122,Russian,"An introductory guide to Rust programming, covering basic to intermediate concepts."
+3357,Advanced Rust Programming,2020-11-18,5164,1122,Chinese,This book covers advanced Rust programming techniques and best practices.
+3358,Introduction to TypeScript,2018-07-22,5101,1123,English,"An introductory guide to TypeScript programming, ideal for JavaScript developers."
+3359,Advanced TypeScript Programming,2020-08-12,5101,1123,Russian,This book covers advanced TypeScript programming techniques and best practices.
+3360,Introduction to Perl,2019-05-30,5106,1124,English,"An introductory guide to Perl programming, covering basic to intermediate concepts."
+3361,Advanced Perl Programming,2020-11-22,5106,1124,English,This book covers advanced Perl programming techniques and best practices.
+3362,Introduction to Shell Scripting,2018-08-05,5170,1125,Spanish,"An introductory guide to shell scripting, covering basic to intermediate concepts."
+3363,Advanced Shell Scripting,2020-10-18,5170,1125,Korean,This book covers advanced shell scripting techniques and best practices.
+3364,Introduction to SQL,2019-03-20,5039,1126,Japanese,"An introductory guide to SQL programming, covering basic to intermediate concepts."
+3365,Advanced SQL Programming,2020-12-10,5039,1126,English,This book covers advanced SQL programming techniques and best practices.
+3366,Introduction to HTML and CSS,2018-09-10,5017,1127,Chinese,"An introductory guide to HTML and CSS, ideal for web developers."
+3367,Advanced HTML and CSS,2020-08-25,5017,1127,Russian,This book covers advanced HTML and CSS techniques and best practices.
+3368,Introduction to Python,2019-02-28,5159,1128,Korean,"An introductory guide to Python programming, covering basic to intermediate concepts."
+3369,Python for Machine Learning,2020-12-20,5159,1128,French,This book covers Python programming techniques for machine learning applications.
+3370,JavaScript Basics,2018-11-20,5160,1129,Chinese,"An introductory guide to JavaScript programming, ideal for web developers."
+3371,JavaScript for Web Development,2020-05-30,5160,1129,German,This book covers JavaScript techniques and best practices for modern web development.
+3372,Java Programming Basics,2019-04-18,5096,1130,Hindi,"An introductory guide to Java programming, ideal for beginners."
+3373,Java for Web Development,2020-11-12,5096,1130,German,This book covers Java programming techniques for web development.
+3374,Introduction to C++,2018-09-30,5019,1131,Korean,"An introductory guide to C++ programming, covering basic to intermediate concepts."
+3375,C++ for Embedded Systems,2020-07-10,5019,1131,Hindi,This book covers C++ programming techniques for embedded systems.
+3376,Python Programming Basics,2019-01-15,5159,1132,English,"An introductory guide to Python programming, covering basic to intermediate concepts."
+3377,Advanced Python Programming,2020-09-18,5159,1132,Korean,This book covers advanced Python programming techniques and best practices.
+3378,JavaScript Basics,2018-10-30,5160,1133,French,"An introductory guide to JavaScript programming, ideal for web developers."
+3379,Advanced JavaScript,2020-11-20,5160,1133,Spanish,This book covers advanced JavaScript programming techniques and best practices.
+3380,Java Programming Basics,2019-03-25,5096,1134,Korean,"An introductory guide to Java programming, ideal for beginners."
+3381,Java for Android Development,2020-11-05,5096,1134,German,This book covers Java programming techniques for Android app development.
+3382,Introduction to Swift,2018-11-18,5055,1135,Hindi,"An introductory guide to Swift programming, ideal for iOS developers."
+3383,Swift for Game Development,2020-12-10,5055,1135,English,This book covers Swift programming techniques for game development.
+3384,Introduction to Ruby,2019-01-30,5009,1136,Russian,"An introductory guide to Ruby programming, ideal for beginners."
+3385,Ruby for Web Applications,2020-09-12,5009,1136,German,This book covers Ruby programming techniques for web applications using Ruby on Rails.
+3386,Introduction to PHP,2018-10-20,5146,1137,Italian,"An introductory guide to PHP programming, ideal for web developers."
+3387,PHP for Web Development,2020-11-22,5146,1137,Chinese,This book covers PHP programming techniques for web development.
+3388,Introduction to Kotlin,2019-04-28,5056,1138,Russian,"An introductory guide to Kotlin programming, ideal for Android developers."
+3389,Kotlin for Mobile Development,2020-11-05,5056,1138,Japanese,This book covers Kotlin programming techniques for mobile development.
+3390,C# Programming Basics,2019-02-18,5172,1139,Hebrew,"An introductory guide to C# programming, covering basic to intermediate concepts."
+3391,C# for Unity Development,2020-10-20,5172,1139,Chinese,This book covers C# programming techniques for Unity game development.
+3392,Introduction to Go,2019-05-05,5054,1140,Italian,"An introductory guide to Go programming, covering basic to intermediate concepts."
+3393,Go for Web Development,2020-12-10,5054,1140,Chinese,This book covers Go programming techniques for web development.
+3394,R Programming Basics,2018-09-30,5144,1141,Japanese,"An introductory guide to R programming, ideal for data analysis and statistics."
+3395,R for Statistical Analysis,2020-08-25,5144,1141,Chinese,This book covers R programming techniques for statistical analysis.
+3396,Introduction to Scala,2019-04-18,5067,1142,Chinese,"An introductory guide to Scala programming, covering basic to intermediate concepts."
+3397,Scala for Data Science,2020-11-30,5067,1142,Spanish,This book covers Scala programming techniques for data science applications.
+3398,Introduction to Dart,2019-03-10,5122,1143,Chinese,"An introductory guide to Dart programming, ideal for Flutter developers."
+3399,Dart for Web Development,2020-12-20,5122,1143,French,This book covers Dart programming techniques for web development.
+3400,Introduction to Rust,2019-05-22,5164,1144,Korean,"An introductory guide to Rust programming, covering basic to intermediate concepts."
+3401,Rust for WebAssembly,2020-11-25,5164,1144,Italian,This book covers Rust programming techniques for WebAssembly applications.
+3402,Introduction to TypeScript,2018-08-25,5101,1145,English,"An introductory guide to TypeScript programming, ideal for JavaScript developers."
+3403,TypeScript for Angular,2020-11-05,5101,1145,English,This book covers TypeScript programming techniques for Angular development.
+3404,Introduction to Perl,2019-02-18,5106,1146,Hebrew,"An introductory guide to Perl programming, covering basic to intermediate concepts."
+3405,Perl for Data Processing,2020-09-20,5106,1146,Hebrew,This book covers Perl programming techniques for data processing.
+3406,Introduction to Shell Scripting,2018-09-18,5170,1147,French,"An introductory guide to shell scripting, covering basic to intermediate concepts."
+3407,Shell Scripting for Automation,2020-08-25,5170,1147,Hebrew,This book covers shell scripting techniques for automation.
+3408,Introduction to SQL,2019-04-20,5039,1148,French,"An introductory guide to SQL programming, covering basic to intermediate concepts."
+3409,SQL for Data Management,2020-12-10,5039,1148,Japanese,This book covers SQL programming techniques for data management.
+3410,Introduction to HTML and CSS,2018-11-30,5017,1149,French,"An introductory guide to HTML and CSS, ideal for web developers."
+3411,HTML and CSS for Web Design,2020-12-20,5017,1149,German,This book covers HTML and CSS techniques for modern web design.
+3412,Python for Beginners,2020-01-10,5159,1150,Spanish,"An introductory guide to Python programming, covering basic to intermediate concepts."
+3413,Python for Data Analysis,2021-08-15,5159,1150,English,This book covers Python programming techniques for data analysis.
+3414,Java Programming,2019-05-25,5096,1151,Italian,"An introductory guide to Java programming, ideal for beginners."
+3415,Advanced Java Techniques,2020-11-30,5096,1151,Spanish,This book covers advanced Java programming techniques and best practices.
+3416,C++ Basics,2018-04-18,5019,1152,Korean,"An introductory guide to C++ programming, covering basic to intermediate concepts."
+3417,C++ for Advanced Users,2020-02-25,5019,1152,Korean,This book covers advanced C++ programming techniques and best practices.
+3418,JavaScript Essentials,2019-03-15,5160,1153,Italian,"An introductory guide to JavaScript programming, ideal for web developers."
+3419,JavaScript for Modern Web Development,2020-12-12,5160,1153,Korean,This book covers JavaScript techniques and best practices for modern web development.
+3420,Swift Programming,2018-09-22,5055,1154,Hebrew,"An introductory guide to Swift programming, ideal for iOS developers."
+3421,Swift for Advanced Users,2020-11-18,5055,1154,Spanish,This book covers advanced Swift programming techniques and best practices.
+3422,Ruby for Beginners,2019-02-28,5009,1155,French,"An introductory guide to Ruby programming, ideal for beginners."
+3423,Ruby on Rails,2021-04-25,5009,1155,Russian,A comprehensive guide to building web applications using Ruby on Rails.
+3424,PHP Essentials,2018-07-18,5146,1156,Chinese,"An introductory guide to PHP programming, ideal for web developers."
+3425,Advanced PHP Programming,2020-10-12,5146,1156,Hindi,This book covers advanced PHP programming techniques and best practices.
+3426,Kotlin for Android,2019-04-22,5056,1157,German,A comprehensive guide to using Kotlin for Android app development.
+3427,Advanced Kotlin Techniques,2021-01-30,5056,1157,Russian,This book covers advanced Kotlin programming concepts and techniques.
+3428,C# Programming,2018-11-10,5172,1158,Spanish,"An introductory guide to C# programming, covering basic to intermediate concepts."
+3429,C# for Web Development,2020-06-18,5172,1158,Hindi,"A guide to using C# for web development, covering ASP.NET and MVC frameworks."
+3430,Go Programming,2019-03-25,5054,1159,Chinese,"An introductory guide to Go programming, covering basic to intermediate concepts."
+3431,Go for Web Development,2021-05-10,5054,1159,German,"A guide to using Go for web development, including web frameworks and RESTful APIs."
+3432,R Programming,2018-08-25,5144,1160,Italian,"An introductory guide to R programming, ideal for data analysis and statistics."
+3433,Advanced R Programming,2020-12-05,5144,1160,Korean,This book covers advanced R programming techniques and best practices.
+3434,Scala Programming,2019-05-18,5067,1161,French,"An introductory guide to Scala programming, covering basic to intermediate concepts."
+3435,Advanced Scala Techniques,2021-01-22,5067,1161,Russian,This book covers advanced Scala programming techniques and best practices.
+3436,Dart Programming,2019-04-30,5122,1162,Italian,"An introductory guide to Dart programming, ideal for Flutter developers."
+3437,Advanced Dart Techniques,2021-07-28,5122,1162,Korean,This book covers advanced Dart programming techniques and best practices.
+3438,Rust Programming,2019-02-20,5164,1163,Japanese,"An introductory guide to Rust programming, covering basic to intermediate concepts."
+3439,Rust for Advanced Users,2021-06-12,5164,1163,Spanish,This book covers advanced Rust programming techniques and best practices.
+3440,TypeScript Essentials,2018-11-15,5101,1164,Hindi,"An introductory guide to TypeScript programming, ideal for JavaScript developers."
+3441,Advanced TypeScript Programming,2020-05-22,5101,1164,English,This book covers advanced TypeScript programming techniques and best practices.
+3442,Perl Programming,2019-03-10,5106,1165,Japanese,"An introductory guide to Perl programming, covering basic to intermediate concepts."
+3443,Advanced Perl Techniques,2021-08-05,5106,1165,Spanish,This book covers advanced Perl programming techniques and best practices.
+3444,Shell Scripting,2018-10-20,5170,1166,Hindi,"An introductory guide to shell scripting, covering basic to intermediate concepts."
+3445,Advanced Shell Scripting,2020-04-18,5170,1166,English,This book covers advanced shell scripting techniques and best practices.
+3446,SQL Programming,2019-05-12,5039,1167,English,"An introductory guide to SQL programming, covering basic to intermediate concepts."
+3447,Advanced SQL Queries,2020-11-30,5039,1167,French,This book covers advanced SQL querying techniques and best practices.
+3448,HTML and CSS Basics,2018-07-10,5017,1168,German,"An introductory guide to HTML and CSS, ideal for web developers."
+3449,Responsive Web Design,2020-09-28,5017,1168,Russian,This book covers HTML and CSS techniques for creating responsive web designs.
+3450,Python for Beginners,2019-02-22,5159,1169,Spanish,"An introductory guide to Python programming, covering basic to intermediate concepts."
+3451,Python for Machine Learning,2021-04-05,5159,1169,Japanese,This book covers Python programming techniques for machine learning applications.
+3452,JavaScript for Beginners,2018-06-18,5160,1170,English,"An introductory guide to JavaScript programming, ideal for web developers."
+3453,JavaScript for Web Development,2020-10-25,5160,1170,English,This book covers JavaScript techniques and best practices for modern web development.
+3454,Java Programming Basics,2019-03-10,5096,1171,German,"An introductory guide to Java programming, ideal for beginners."
+3455,Advanced Java Programming,2020-11-15,5096,1171,English,This book covers advanced Java programming techniques and best practices.
+3456,C++ for Beginners,2018-09-28,5019,1172,Korean,"An introductory guide to C++ programming, covering basic to intermediate concepts."
+3457,C++ for Game Development,2021-06-25,5019,1172,Korean,This book covers C++ programming techniques for game development.
+3458,Python Basics,2019-01-15,5159,1173,Hindi,"An introductory guide to Python programming, covering basic to intermediate concepts."
+3459,Python for Data Science,2021-07-22,5159,1173,Spanish,A comprehensive guide to using Python for data science applications.
+3460,JavaScript for Beginners,2018-10-18,5160,1174,Russian,"An introductory guide to JavaScript programming, ideal for web developers."
+3461,JavaScript for Advanced Users,2020-12-20,5160,1174,Hebrew,This book covers advanced JavaScript programming techniques and best practices.
+3462,Java for Beginners,2019-04-22,5096,1175,Italian,"An introductory guide to Java programming, ideal for beginners."
+3463,Java for Web Development,2021-01-25,5096,1175,German,This book covers Java programming techniques for web development.
+3464,Swift Programming Basics,2018-11-15,5055,1176,Korean,"An introductory guide to Swift programming, ideal for iOS developers."
+3465,Advanced Swift Programming,2020-06-25,5055,1176,Italian,This book covers advanced Swift programming techniques and best practices.
+3466,Ruby Programming,2019-03-30,5009,1177,Spanish,"An introductory guide to Ruby programming, ideal for beginners."
+3467,Ruby on Rails for Web Development,2021-04-12,5009,1177,Italian,A comprehensive guide to building web applications using Ruby on Rails.
+3468,PHP Basics,2018-08-20,5146,1178,Russian,"An introductory guide to PHP programming, ideal for web developers."
+3469,Advanced PHP Programming,2020-11-05,5146,1178,German,This book covers advanced PHP programming techniques and best practices.
+3470,Kotlin for Beginners,2019-04-15,5056,1179,Italian,"An introductory guide to Kotlin programming, ideal for Android developers."
+3471,Advanced Kotlin Programming,2021-07-20,5056,1179,Hebrew,This book covers advanced Kotlin programming techniques and best practices.
+3472,C# Programming,2018-09-12,5172,1180,Spanish,"An introductory guide to C# programming, covering basic to intermediate concepts."
+3473,Advanced C# Programming,2020-10-25,5172,1180,Chinese,This book covers advanced C# programming techniques and best practices.
+3474,Go Programming Basics,2019-02-18,5054,1181,Korean,"An introductory guide to Go programming, covering basic to intermediate concepts."
+3475,Advanced Go Programming,2021-03-28,5054,1181,Hindi,This book covers advanced Go programming techniques and best practices.
+3476,R for Beginners,2018-07-30,5144,1182,Hindi,"An introductory guide to R programming, ideal for data analysis and statistics."
+3477,Advanced R Programming,2020-11-05,5144,1182,Italian,This book covers advanced R programming techniques and best practices.
+3478,Scala Programming Basics,2019-03-28,5067,1183,French,"An introductory guide to Scala programming, covering basic to intermediate concepts."
+3479,Advanced Scala Programming,2021-07-15,5067,1183,Italian,This book covers advanced Scala programming techniques and best practices.
+3480,Dart for Beginners,2019-05-25,5122,1184,Hebrew,"An introductory guide to Dart programming, ideal for Flutter developers."
+3481,Advanced Dart Programming,2021-09-18,5122,1184,Korean,This book covers advanced Dart programming techniques and best practices.
+3482,Rust Programming Basics,2019-01-30,5164,1185,German,"An introductory guide to Rust programming, covering basic to intermediate concepts."
+3483,Advanced Rust Programming,2021-07-10,5164,1185,Chinese,This book covers advanced Rust programming techniques and best practices.
+3484,TypeScript for Beginners,2018-06-25,5101,1186,English,"An introductory guide to TypeScript programming, ideal for JavaScript developers."
+3485,Advanced TypeScript Programming,2020-09-22,5101,1186,German,This book covers advanced TypeScript programming techniques and best practices.
+3486,Perl for Beginners,2019-02-18,5106,1187,Spanish,"An introductory guide to Perl programming, covering basic to intermediate concepts."
+3487,Advanced Perl Programming,2021-04-25,5106,1187,Chinese,This book covers advanced Perl programming techniques and best practices.
+3488,Shell Scripting Basics,2018-08-28,5170,1188,Hebrew,"An introductory guide to shell scripting, covering basic to intermediate concepts."
+3489,Advanced Shell Scripting,2020-11-18,5170,1188,Korean,This book covers advanced shell scripting techniques and best practices.
+3490,SQL for Beginners,2019-03-20,5039,1189,English,"An introductory guide to SQL programming, covering basic to intermediate concepts."
+3491,Advanced SQL Programming,2021-02-10,5039,1189,Spanish,This book covers advanced SQL programming techniques and best practices.
+3492,HTML and CSS Basics,2018-10-10,5017,1190,Hebrew,"An introductory guide to HTML and CSS, ideal for web developers."
+3493,Advanced HTML and CSS,2020-11-25,5017,1190,Italian,This book covers advanced HTML and CSS techniques and best practices.
+3494,Python for Beginners,2019-05-28,5159,1191,Hindi,"An introductory guide to Python programming, covering basic to intermediate concepts."
+3495,Advanced Python Programming,2021-03-20,5159,1191,Hebrew,This book covers advanced Python programming techniques and best practices.
+3496,JavaScript for Beginners,2018-08-18,5160,1192,Spanish,"An introductory guide to JavaScript programming, ideal for web developers."
+3497,JavaScript for Advanced Users,2020-10-22,5160,1192,German,This book covers advanced JavaScript programming techniques and best practices.
+3498,Java for Beginners,2019-01-25,5096,1193,Japanese,"An introductory guide to Java programming, ideal for beginners."
+3499,Advanced Java Programming,2020-12-15,5096,1193,Spanish,This book covers advanced Java programming techniques and best practices.
+3500,C++ Programming Basics,2018-07-18,5019,1194,Italian,"An introductory guide to C++ programming, covering basic to intermediate concepts."
+3501,Advanced C++ Programming,2021-04-20,5019,1194,Chinese,This book covers advanced C++ programming techniques and best practices.
+3502,Python Basics,2019-02-28,5159,1195,Hebrew,"An introductory guide to Python programming, covering basic to intermediate concepts."
+3503,Python for Data Analysis,2021-05-30,5159,1195,French,A comprehensive guide to using Python for data analysis.
+3504,JavaScript for Beginners,2018-09-22,5160,1196,Hindi,"An introductory guide to JavaScript programming, ideal for web developers."
+3505,JavaScript for Modern Web Development,2020-08-25,5160,1196,French,This book covers JavaScript techniques and best practices for modern web development.
+3506,Java for Beginners,2019-01-18,5096,1197,German,"An introductory guide to Java programming, ideal for beginners."
+3507,Java for Enterprise Development,2021-06-25,5096,1197,French,A comprehensive guide to using Java for enterprise-level application development.
+3508,Swift Programming Basics,2018-10-28,5055,1198,French,"An introductory guide to Swift programming, ideal for iOS developers."
+3509,Swift for App Development,2021-05-22,5055,1198,Hindi,A comprehensive guide to using Swift for iOS app development.
+3510,Ruby Programming,2019-03-20,5009,1199,Italian,"An introductory guide to Ruby programming, ideal for beginners."
+3511,Ruby on Rails for Web Development,2021-07-30,5009,1199,Korean,A comprehensive guide to building web applications using Ruby on Rails.
+3512,PHP Basics,2018-07-28,5146,1200,Russian,"An introductory guide to PHP programming, ideal for web developers."
+3513,PHP for Web Development,2020-09-25,5146,1200,Chinese,This book covers PHP programming techniques for web development.
+3514,Kotlin for Beginners,2019-04-10,5056,1201,Hebrew,"An introductory guide to Kotlin programming, ideal for Android developers."
+3515,Kotlin for Advanced Users,2021-02-28,5056,1201,Hindi,This book covers advanced Kotlin programming techniques and best practices.
+3516,C# Programming,2018-08-18,5172,1202,Spanish,"An introductory guide to C# programming, covering basic to intermediate concepts."
+3517,C# for Advanced Users,2020-10-20,5172,1202,Hindi,This book covers advanced C# programming techniques and best practices.
+3518,Go Programming,2019-01-22,5054,1203,Hindi,"An introductory guide to Go programming, covering basic to intermediate concepts."
+3519,Go for Web Development,2021-03-15,5054,1203,Japanese,"A guide to using Go for web development, including web frameworks and RESTful APIs."
+3520,R for Beginners,2018-09-12,5144,1204,German,"An introductory guide to R programming, ideal for data analysis and statistics."
+3521,R for Data Science,2020-12-10,5144,1204,French,A comprehensive guide to using R for data science applications.
+3522,Scala Programming Basics,2019-04-20,5067,1205,French,"An introductory guide to Scala programming, covering basic to intermediate concepts."
+3523,Advanced Scala Programming,2021-02-12,5067,1205,Hindi,This book covers advanced Scala programming techniques and best practices.
+3524,Dart Programming,2019-05-18,5122,1206,Hebrew,"An introductory guide to Dart programming, ideal for Flutter developers."
+3525,Dart for Mobile Development,2021-06-22,5122,1206,French,This book covers Dart programming techniques for mobile development.
+3526,Rust Programming Basics,2019-02-10,5164,1207,French,"An introductory guide to Rust programming, covering basic to intermediate concepts."
+3527,Advanced Rust Programming,2021-04-30,5164,1207,Spanish,This book covers advanced Rust programming techniques and best practices.
+3528,TypeScript for Beginners,2018-08-18,5101,1208,German,"An introductory guide to TypeScript programming, ideal for JavaScript developers."
+3529,TypeScript for Web Development,2020-12-18,5101,1208,French,This book covers TypeScript programming techniques for modern web development.
+3530,Perl Programming,2019-03-12,5106,1209,Italian,"An introductory guide to Perl programming, covering basic to intermediate concepts."
+3531,Advanced Perl Programming,2021-05-22,5106,1209,Japanese,This book covers advanced Perl programming techniques and best practices.
+3532,Shell Scripting Basics,2018-07-22,5170,1210,Spanish,"An introductory guide to shell scripting, covering basic to intermediate concepts."
+3533,Advanced Shell Scripting,2020-08-25,5170,1210,Chinese,This book covers advanced shell scripting techniques and best practices.
+3534,SQL for Beginners,2019-02-20,5039,1211,Korean,"An introductory guide to SQL programming, covering basic to intermediate concepts."
+3535,Advanced SQL Programming,2020-12-15,5039,1211,Korean,This book covers advanced SQL programming techniques and best practices.
+3536,HTML and CSS Basics,2018-06-20,5017,1212,Spanish,"An introductory guide to HTML and CSS, ideal for web developers."
+3537,HTML and CSS for Modern Web Design,2020-11-25,5017,1212,French,This book covers HTML and CSS techniques for modern web design.
+3538,Python for Beginners,2019-03-18,5159,1213,French,"An introductory guide to Python programming, covering basic to intermediate concepts."
+3539,Python for Data Science,2021-02-25,5159,1213,Spanish,A comprehensive guide to using Python for data science applications.
+3540,JavaScript for Beginners,2018-07-18,5160,1214,Chinese,"An introductory guide to JavaScript programming, ideal for web developers."
+3541,JavaScript for Web Development,2020-10-20,5160,1214,German,This book covers JavaScript techniques and best practices for modern web development.
+3542,Java for Beginners,2019-01-15,5096,1215,French,"An introductory guide to Java programming, ideal for beginners."
+3543,Java for Enterprise Applications,2021-05-20,5096,1215,German,A comprehensive guide to using Java for enterprise-level application development.
+3544,Swift Programming Basics,2018-10-22,5055,1216,French,"An introductory guide to Swift programming, ideal for iOS developers."
+3545,Advanced Swift Programming,2020-06-28,5055,1216,Hebrew,This book covers advanced Swift programming techniques and best practices.
+3546,Ruby Programming,2019-03-22,5009,1217,Hebrew,"An introductory guide to Ruby programming, ideal for beginners."
+3547,Ruby on Rails for Web Development,2021-07-20,5009,1217,Hebrew,A comprehensive guide to building web applications using Ruby on Rails.
+3548,PHP Basics,2018-07-28,5146,1218,Spanish,"An introductory guide to PHP programming, ideal for web developers."
+3549,Advanced PHP Programming,2020-11-22,5146,1218,Japanese,This book covers advanced PHP programming techniques and best practices.
+3550,Kotlin for Beginners,2019-04-22,5056,1219,Chinese,"An introductory guide to Kotlin programming, ideal for Android developers."
+3551,Advanced Kotlin Programming,2021-08-12,5056,1219,Hindi,This book covers advanced Kotlin programming techniques and best practices.
+3552,C# Programming,2018-09-20,5172,1220,Italian,"An introductory guide to C# programming, covering basic to intermediate concepts."
+3553,C# for Web Development,2020-10-28,5172,1220,Hebrew,"A guide to using C# for web development, covering ASP.NET and MVC frameworks."
+3554,Go Programming,2019-02-15,5054,1221,Chinese,"An introductory guide to Go programming, covering basic to intermediate concepts."
+3555,Advanced Go Programming,2021-05-25,5054,1221,English,This book covers advanced Go programming techniques and best practices.
+3556,R for Beginners,2018-08-20,5144,1222,Russian,"An introductory guide to R programming, ideal for data analysis and statistics."
+3557,R for Data Science,2020-11-18,5144,1222,Chinese,A comprehensive guide to using R for data science applications.
+3558,Scala Programming Basics,2019-03-15,5067,1223,Hebrew,"An introductory guide to Scala programming, covering basic to intermediate concepts."
+3559,Advanced Scala Programming,2021-07-12,5067,1223,French,This book covers advanced Scala programming techniques and best practices.
+3560,Dart for Beginners,2019-05-18,5122,1224,Italian,"An introductory guide to Dart programming, ideal for Flutter developers."
+3561,Advanced Dart Programming,2021-06-28,5122,1224,Hebrew,This book covers advanced Dart programming techniques and best practices.
+3562,Rust Programming,2019-01-30,5164,1225,Hebrew,"An introductory guide to Rust programming, covering basic to intermediate concepts."
+3563,Advanced Rust Programming,2021-07-10,5164,1225,Hebrew,This book covers advanced Rust programming techniques and best practices.
+3564,TypeScript for Beginners,2018-08-18,5101,1226,French,"An introductory guide to TypeScript programming, ideal for JavaScript developers."
+3565,Advanced TypeScript Programming,2020-12-18,5101,1226,Chinese,This book covers advanced TypeScript programming techniques and best practices.
+3566,Perl Programming,2019-03-12,5106,1227,English,"An introductory guide to Perl programming, covering basic to intermediate concepts."
+3567,Advanced Perl Programming,2021-05-22,5106,1227,Russian,This book covers advanced Perl programming techniques and best practices.
+3568,Shell Scripting Basics,2018-07-22,5170,1228,Hindi,"An introductory guide to shell scripting, covering basic to intermediate concepts."
+3569,Advanced Shell Scripting,2020-08-25,5170,1228,Korean,This book covers advanced shell scripting techniques and best practices.
+3570,SQL for Beginners,2019-02-20,5039,1229,German,"An introductory guide to SQL programming, covering basic to intermediate concepts."
+3571,Advanced SQL Programming,2020-12-15,5039,1229,German,This book covers advanced SQL programming techniques and best practices.
+3572,HTML and CSS Basics,2018-10-10,5017,1230,Chinese,"An introductory guide to HTML and CSS, ideal for web developers."
+3573,Responsive Web Design,2020-11-25,5017,1230,Hindi,This book covers HTML and CSS techniques for creating responsive web designs.
+3574,JavaScript Essentials,2021-01-05,5160,1231,Italian,"An introductory guide to JavaScript programming, ideal for web developers."
+3575,Python for Data Science,2020-12-15,5159,1232,Chinese,A comprehensive guide to using Python for data science applications.
+3576,Java for Beginners,2019-09-30,5096,1233,German,"An introductory guide to Java programming, ideal for beginners."
+3577,C++ for Advanced Users,2021-04-20,5019,1234,Japanese,This book covers advanced C++ programming techniques and best practices.
+3578,Ruby on Rails,2020-05-18,5009,1235,German,A comprehensive guide to building web applications using Ruby on Rails.
+3579,PHP for Web Development,2021-03-10,5146,1236,Hindi,This book covers PHP programming techniques for web development.
+3580,Kotlin for Android Development,2019-07-22,5056,1237,Hindi,A comprehensive guide to using Kotlin for Android app development.
+3581,Advanced C# Programming,2020-11-25,5172,1238,Russian,This book covers advanced C# programming techniques and best practices.
+3582,Go for Web Development,2021-02-12,5054,1239,Italian,"A guide to using Go for web development, including web frameworks and RESTful APIs."
+3583,R for Statistical Analysis,2021-01-25,5144,1240,Hindi,This book covers R programming techniques for statistical analysis.
+3584,Scala for Data Science,2020-11-20,5067,1241,Italian,This book covers Scala programming techniques for data science applications.
+3585,Dart for Mobile Development,2021-04-12,5122,1242,Korean,This book covers Dart programming techniques for mobile development.
+3586,Advanced Rust Programming,2020-10-18,5164,1243,Korean,This book covers advanced Rust programming techniques and best practices.
+3587,TypeScript for Angular,2020-07-15,5101,1244,French,This book covers TypeScript programming techniques for Angular development.
+3588,Perl for Data Processing,2020-09-30,5106,1245,Chinese,This book covers Perl programming techniques for data processing.
+3589,Shell Scripting for Automation,2020-08-12,5170,1246,English,This book covers shell scripting techniques for automation.
+3590,SQL for Data Management,2021-05-18,5039,1247,Italian,This book covers SQL programming techniques for data management.
+3591,HTML and CSS for Responsive Design,2020-12-28,5017,1248,Korean,This book covers HTML and CSS techniques for creating responsive web designs.
+3592,Python for Data Science,2021-01-10,5159,1249,German,A comprehensive guide to using Python for data science applications.
+3593,JavaScript for Modern Web Development,2020-11-05,5160,1250,Italian,This book covers JavaScript techniques and best practices for modern web development.
+3594,Advanced Java Programming,2021-03-20,5096,1251,Spanish,This book covers advanced Java programming techniques and best practices.
+3595,C++ for Game Development,2020-08-25,5019,1252,Hindi,This book covers C++ programming techniques for game development.
+3596,Ruby for Web Applications,2020-09-10,5009,1253,Korean,This book covers Ruby programming techniques for web applications using Ruby on Rails.
+3597,Advanced PHP Programming,2020-07-18,5146,1254,German,This book covers advanced PHP programming techniques and best practices.
+3598,Kotlin for Mobile Development,2021-04-22,5056,1255,Spanish,This book covers Kotlin programming techniques for mobile development.
+3599,Advanced C# Programming,2020-10-10,5172,1256,Hindi,This book covers advanced C# programming techniques and best practices.
+3600,Go Programming for Web,2021-06-15,5054,1257,German,"A guide to using Go for web development, including web frameworks and RESTful APIs."
+3601,R for Data Analysis,2020-12-05,5144,1258,German,This book covers R programming techniques for data analysis.
+3602,Scala for Developers,2021-01-12,5067,1259,Korean,This book covers Scala programming techniques for developers.
+3603,Dart for Mobile Apps,2020-07-30,5122,1260,Italian,This book covers Dart programming techniques for mobile app development.
+3604,Rust Programming Techniques,2020-08-22,5164,1261,German,This book covers Rust programming techniques and best practices.
+3605,TypeScript for Web Development,2021-03-18,5101,1262,English,This book covers TypeScript programming techniques for modern web development.
+3606,Advanced Perl Programming,2020-10-05,5106,1263,Japanese,This book covers advanced Perl programming techniques and best practices.
+3607,Shell Scripting for Beginners,2021-05-10,5170,1264,German,"An introductory guide to shell scripting, covering basic to intermediate concepts."
+3608,SQL for Data Scientists,2021-04-25,5039,1265,Chinese,This book covers SQL programming techniques for data scientists.
+3609,HTML and CSS for Beginners,2020-11-18,5017,1266,Russian,"An introductory guide to HTML and CSS, ideal for web developers."
+3610,Python for Machine Learning,2020-12-28,5159,1267,Hebrew,This book covers Python programming techniques for machine learning applications.
+3611,JavaScript for Advanced Users,2021-01-12,5160,1268,Chinese,This book covers advanced JavaScript programming techniques and best practices.
+3612,Java for Web Development,2020-09-25,5096,1269,Japanese,This book covers Java programming techniques for web development.
+3613,C++ for Embedded Systems,2020-11-20,5019,1270,German,This book covers C++ programming techniques for embedded systems.
+3614,Ruby on Rails for Web Development,2021-03-05,5009,1271,French,A comprehensive guide to building web applications using Ruby on Rails.
+3615,Advanced PHP Techniques,2020-10-15,5146,1272,Russian,This book covers advanced PHP programming techniques and best practices.
+3616,Kotlin for Beginners,2020-06-18,5056,1273,Italian,"An introductory guide to Kotlin programming, ideal for Android developers."
+3617,C# for Unity Development,2021-02-25,5172,1274,Korean,This book covers C# programming techniques for Unity game development.
+3618,Go Programming for Web,2021-06-15,5054,1275,Chinese,"A guide to using Go for web development, including web frameworks and RESTful APIs."
+3619,R Programming for Data Science,2020-12-18,5144,1276,Spanish,This book covers R programming techniques for data science applications.
+3620,Scala for Developers,2021-01-22,5067,1277,French,This book covers Scala programming techniques for developers.
+3621,Dart for Mobile Apps,2020-11-30,5122,1278,English,This book covers Dart programming techniques for mobile app development.
+3622,Rust Programming Techniques,2021-05-20,5164,1279,Chinese,This book covers Rust programming techniques and best practices.
+3623,TypeScript for Angular,2021-04-18,5101,1280,Korean,This book covers TypeScript programming techniques for Angular development.
+3624,Advanced Perl Programming,2020-11-22,5106,1281,Hebrew,This book covers advanced Perl programming techniques and best practices.
+3625,Shell Scripting for Automation,2020-12-10,5170,1282,German,This book covers shell scripting techniques for automation.
+3626,SQL for Data Management,2021-03-28,5039,1283,Spanish,This book covers SQL programming techniques for data management.
+3627,HTML and CSS for Beginners,2020-07-15,5017,1284,Hindi,"An introductory guide to HTML and CSS, ideal for web developers."
+3628,Python for Machine Learning,2021-04-22,5159,1285,Japanese,This book covers Python programming techniques for machine learning applications.
+3629,JavaScript for Advanced Users,2020-12-28,5160,1286,German,This book covers advanced JavaScript programming techniques and best practices.
+3630,Java for Web Development,2021-05-20,5096,1287,Spanish,This book covers Java programming techniques for web development.
+3631,C++ for Embedded Systems,2021-03-10,5019,1288,Hebrew,This book covers C++ programming techniques for embedded systems.
+3632,Ruby on Rails for Web Applications,2020-11-18,5009,1289,English,A comprehensive guide to building web applications using Ruby on Rails.
+3633,Advanced PHP Programming,2020-09-25,5146,1290,English,This book covers advanced PHP programming techniques and best practices.
+3634,Kotlin for Mobile Apps,2021-01-18,5056,1291,Chinese,This book covers Kotlin programming techniques for mobile app development.
+3635,Advanced C# Programming,2021-04-25,5172,1292,English,This book covers advanced C# programming techniques and best practices.
+3636,Go Programming for Web Development,2020-11-12,5054,1293,Japanese,"A guide to using Go for web development, including web frameworks and RESTful APIs."
+3637,R for Data Science,2020-08-15,5144,1294,Korean,A comprehensive guide to using R for data science applications.
+3638,Scala for Developers,2021-03-22,5067,1295,Chinese,This book covers Scala programming techniques for developers.
+3639,Dart for Mobile Development,2021-02-10,5122,1296,Russian,This book covers Dart programming techniques for mobile development.
+3640,Rust Programming Techniques,2021-04-05,5164,1297,Chinese,This book covers Rust programming techniques and best practices.
+3641,TypeScript for Modern Web Development,2020-12-22,5101,1298,Italian,This book covers TypeScript programming techniques for modern web development.
+3642,Perl for Data Processing,2020-10-12,5106,1299,Chinese,This book covers Perl programming techniques for data processing.
+3643,Shell Scripting for Beginners,2021-03-20,5170,1300,German,"An introductory guide to shell scripting, covering basic to intermediate concepts."
+3644,SQL for Data Management,2021-05-12,5039,1301,Korean,This book covers SQL programming techniques for data management.
+3645,HTML and CSS for Beginners,2020-08-18,5017,1302,Hindi,"An introductory guide to HTML and CSS, ideal for web developers."
+3646,Python for Data Science,2021-02-25,5159,1303,Russian,A comprehensive guide to using Python for data science applications.
+3647,JavaScript for Modern Web Development,2020-11-10,5160,1304,Spanish,This book covers JavaScript techniques and best practices for modern web development.
+3648,Advanced Java Programming,2021-04-15,5096,1305,French,This book covers advanced Java programming techniques and best practices.
+3649,C++ for Embedded Systems,2021-03-10,5019,1306,Japanese,This book covers C++ programming techniques for embedded systems.
+3650,Ruby for Web Applications,2020-09-10,5009,1307,Hebrew,This book covers Ruby programming techniques for web applications using Ruby on Rails.
+3651,Advanced PHP Programming,2021-05-22,5146,1308,Italian,This book covers advanced PHP programming techniques and best practices.
+3652,Kotlin for Mobile Development,2021-02-10,5056,1309,Chinese,This book covers Kotlin programming techniques for mobile development.
+3653,Advanced C# Programming,2021-01-25,5172,1310,English,This book covers advanced C# programming techniques and best practices.
+3654,Go for Web Development,2021-06-15,5054,1311,German,"A guide to using Go for web development, including web frameworks and RESTful APIs."
+3655,R for Data Analysis,2020-11-10,5144,1312,Spanish,This book covers R programming techniques for data analysis.
+3656,Scala for Developers,2021-03-22,5067,1313,Spanish,This book covers Scala programming techniques for developers.
+3657,Dart for Mobile Development,2021-02-10,5122,1314,English,This book covers Dart programming techniques for mobile development.
+3658,Rust Programming Techniques,2021-04-05,5164,1315,Korean,This book covers Rust programming techniques and best practices.
+3659,TypeScript for Angular,2020-12-22,5101,1316,Hebrew,This book covers TypeScript programming techniques for Angular development.
+3660,Perl for Data Processing,2020-10-12,5106,1317,Chinese,This book covers Perl programming techniques for data processing.
+3661,Shell Scripting for Beginners,2021-03-20,5170,1318,Chinese,"An introductory guide to shell scripting, covering basic to intermediate concepts."
+3662,SQL for Data Management,2021-05-12,5039,1319,German,This book covers SQL programming techniques for data management.
+3663,HTML and CSS for Responsive Design,2020-08-18,5017,1320,Hindi,This book covers HTML and CSS techniques for creating responsive web designs.
+3664,Python for Machine Learning,2021-02-25,5159,1321,Japanese,This book covers Python programming techniques for machine learning applications.
+3665,JavaScript for Advanced Users,2020-11-10,5160,1322,German,This book covers advanced JavaScript programming techniques and best practices.
+3666,Java for Web Development,2021-05-20,5096,1323,Japanese,This book covers Java programming techniques for web development.
+3667,C++ for Embedded Systems,2021-03-10,5019,1324,Italian,This book covers C++ programming techniques for embedded systems.
+3668,Ruby on Rails for Web Applications,2020-09-10,5009,1325,Hindi,A comprehensive guide to building web applications using Ruby on Rails.
+3669,Advanced PHP Programming,2021-05-22,5146,1326,Russian,This book covers advanced PHP programming techniques and best practices.
+3670,Kotlin for Mobile Development,2021-02-10,5056,1327,Chinese,This book covers Kotlin programming techniques for mobile development.
+3671,Advanced C# Programming,2021-01-25,5172,1328,Japanese,This book covers advanced C# programming techniques and best practices.
+3672,Go Programming for Web,2021-06-15,5054,1329,English,"A guide to using Go for web development, including web frameworks and RESTful APIs."
+3673,R for Data Analysis,2020-11-10,5144,1330,English,This book covers R programming techniques for data analysis.
+3674,Scala for Developers,2021-03-22,5067,1331,German,This book covers Scala programming techniques for developers.
+3675,Dart for Mobile Development,2021-02-10,5122,1332,French,This book covers Dart programming techniques for mobile development.
+3676,Rust Programming Techniques,2021-04-05,5164,1333,Spanish,This book covers Rust programming techniques and best practices.
+3677,TypeScript for Angular,2020-12-22,5101,1334,German,This book covers TypeScript programming techniques for Angular development.
+3678,Perl for Data Processing,2020-10-12,5106,1335,Hebrew,This book covers Perl programming techniques for data processing.
+3679,Shell Scripting for Beginners,2021-03-20,5170,1336,Korean,"An introductory guide to shell scripting, covering basic to intermediate concepts."
+3680,SQL for Data Management,2021-05-12,5039,1337,Chinese,This book covers SQL programming techniques for data management.
+3681,HTML and CSS for Responsive Design,2020-08-18,5017,1338,Japanese,This book covers HTML and CSS techniques for creating responsive web designs.
+3682,Python for Machine Learning,2021-02-25,5159,1339,German,This book covers Python programming techniques for machine learning applications.
+3683,JavaScript for Advanced Users,2020-11-10,5160,1340,Italian,This book covers advanced JavaScript programming techniques and best practices.
+3684,Java for Web Development,2021-05-20,5096,1341,Korean,This book covers Java programming techniques for web development.
+3685,C++ for Embedded Systems,2021-03-10,5019,1342,Italian,This book covers C++ programming techniques for embedded systems.
+3686,Ruby on Rails for Web Applications,2020-09-10,5009,1343,English,A comprehensive guide to building web applications using Ruby on Rails.
+3687,Advanced PHP Programming,2021-05-22,5146,1344,Spanish,This book covers advanced PHP programming techniques and best practices.
+3688,Kotlin for Mobile Development,2021-02-10,5056,1345,Hebrew,This book covers Kotlin programming techniques for mobile development.
+3689,Advanced C# Programming,2021-01-25,5172,1346,Hebrew,This book covers advanced C# programming techniques and best practices.
+3690,Go Programming for Web,2021-06-15,5054,1347,Korean,"A guide to using Go for web development, including web frameworks and RESTful APIs."
+3691,R for Data Analysis,2020-11-10,5144,1348,Korean,This book covers R programming techniques for data analysis.
+3692,Scala for Developers,2021-03-22,5067,1349,Korean,This book covers Scala programming techniques for developers.
+3693,Dart for Mobile Development,2021-02-10,5122,1350,Russian,This book covers Dart programming techniques for mobile development.
+3694,Rust Programming Techniques,2021-04-05,5164,1351,Japanese,This book covers Rust programming techniques and best practices.
+3695,TypeScript for Angular,2020-12-22,5101,1352,French,This book covers TypeScript programming techniques for Angular development.
+3696,Perl for Data Processing,2020-10-12,5106,1353,French,This book covers Perl programming techniques for data processing.
+3697,Shell Scripting for Beginners,2021-03-20,5170,1354,Korean,"An introductory guide to shell scripting, covering basic to intermediate concepts."
+3698,SQL for Data Management,2021-05-12,5039,1355,Chinese,This book covers SQL programming techniques for data management.
+3699,HTML and CSS for Responsive Design,2020-08-18,5017,1356,French,This book covers HTML and CSS techniques for creating responsive web designs.
+3700,Python for Machine Learning,2021-02-25,5159,1357,Hebrew,This book covers Python programming techniques for machine learning applications.
+3701,JavaScript for Advanced Users,2020-11-10,5160,1358,Hebrew,This book covers advanced JavaScript programming techniques and best practices.
+3702,Java for Web Development,2021-05-20,5096,1359,Korean,This book covers Java programming techniques for web development.
+3703,C++ for Embedded Systems,2021-03-10,5019,1360,German,This book covers C++ programming techniques for embedded systems.
+3704,Ruby on Rails for Web Applications,2020-09-10,5009,1361,Korean,A comprehensive guide to building web applications using Ruby on Rails.
+3705,Advanced PHP Programming,2021-05-22,5146,1362,Chinese,This book covers advanced PHP programming techniques and best practices.
+3706,Kotlin for Mobile Development,2021-02-10,5056,1363,French,This book covers Kotlin programming techniques for mobile development.
+3707,Advanced C# Programming,2021-01-25,5172,1364,Hindi,This book covers advanced C# programming techniques and best practices.
+3708,Go Programming for Web,2021-06-15,5054,1365,Korean,"A guide to using Go for web development, including web frameworks and RESTful APIs."
+3709,R for Data Analysis,2020-11-10,5144,1366,Italian,This book covers R programming techniques for data analysis.
+3710,Scala for Developers,2021-03-22,5067,1367,Hebrew,This book covers Scala programming techniques for developers.
+3711,Dart for Mobile Development,2021-02-10,5122,1368,Japanese,This book covers Dart programming techniques for mobile development.
+3712,Rust Programming Techniques,2021-04-05,5164,1369,Chinese,This book covers Rust programming techniques and best practices.
+3713,TypeScript for Angular,2020-12-22,5101,1370,Chinese,This book covers TypeScript programming techniques for Angular development.
+3714,Perl for Data Processing,2020-10-12,5106,1371,Hindi,This book covers Perl programming techniques for data processing.
+3715,Shell Scripting for Beginners,2021-03-20,5170,1372,Chinese,"An introductory guide to shell scripting, covering basic to intermediate concepts."
+3716,SQL for Data Management,2021-05-12,5039,1373,Korean,This book covers SQL programming techniques for data management.
+3717,HTML and CSS for Responsive Design,2020-08-18,5017,1374,Korean,This book covers HTML and CSS techniques for creating responsive web designs.
+3718,Python for Machine Learning,2021-02-25,5159,1375,Italian,This book covers Python programming techniques for machine learning applications.
+3719,JavaScript for Advanced Users,2020-11-10,5160,1376,French,This book covers advanced JavaScript programming techniques and best practices.
+3720,Java for Web Development,2021-05-20,5096,1377,Korean,This book covers Java programming techniques for web development.
+3721,C++ for Embedded Systems,2021-03-10,5019,1378,Chinese,This book covers C++ programming techniques for embedded systems.
+3722,Ruby on Rails for Web Applications,2020-09-10,5009,1379,Chinese,A comprehensive guide to building web applications using Ruby on Rails.
+3723,Advanced PHP Programming,2021-05-22,5146,1380,Chinese,This book covers advanced PHP programming techniques and best practices.
+3724,Kotlin for Mobile Development,2021-02-10,5056,1381,Hebrew,This book covers Kotlin programming techniques for mobile development.
+3725,Advanced C# Programming,2021-01-25,5172,1382,English,This book covers advanced C# programming techniques and best practices.
+3726,Go Programming for Web,2021-06-15,5054,1383,Spanish,"A guide to using Go for web development, including web frameworks and RESTful APIs."
+3727,R for Data Analysis,2020-11-10,5144,1384,Hebrew,This book covers R programming techniques for data analysis.
+3728,Scala for Developers,2021-03-22,5067,1385,Italian,This book covers Scala programming techniques for developers.
+3729,Dart for Mobile Development,2021-02-10,5122,1386,Italian,This book covers Dart programming techniques for mobile development.
+3730,Rust Programming Techniques,2021-04-05,5164,1387,Spanish,This book covers Rust programming techniques and best practices.
+3731,TypeScript for Angular,2020-12-22,5101,1388,German,This book covers TypeScript programming techniques for Angular development.
+3732,Perl for Data Processing,2020-10-12,5106,1389,Japanese,This book covers Perl programming techniques for data processing.
+3733,Shell Scripting for Beginners,2021-03-20,5170,1390,French,"An introductory guide to shell scripting, covering basic to intermediate concepts."
+3734,SQL for Data Management,2021-05-12,5039,1391,French,This book covers SQL programming techniques for data management.
+3735,HTML and CSS for Responsive Design,2020-08-18,5017,1392,Hindi,This book covers HTML and CSS techniques for creating responsive web designs.
+3736,Python for Machine Learning,2021-02-25,5159,1393,French,This book covers Python programming techniques for machine learning applications.
+3737,JavaScript for Advanced Users,2020-11-10,5160,1394,German,This book covers advanced JavaScript programming techniques and best practices.
+3738,Java for Web Development,2021-05-20,5096,1395,English,This book covers Java programming techniques for web development.
+3739,C++ for Embedded Systems,2021-03-10,5019,1396,Hebrew,This book covers C++ programming techniques for embedded systems.
+3740,Ruby on Rails for Web Applications,2020-09-10,5009,1397,Chinese,A comprehensive guide to building web applications using Ruby on Rails.
+3741,Advanced PHP Programming,2021-05-22,5146,1398,German,This book covers advanced PHP programming techniques and best practices.
+3742,Kotlin for Mobile Development,2021-02-10,5056,1399,German,This book covers Kotlin programming techniques for mobile development.
+3743,Advanced C# Programming,2021-01-25,5172,1400,Korean,This book covers advanced C# programming techniques and best practices.
